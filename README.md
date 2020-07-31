@@ -12,6 +12,12 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
+<!-- slide -->
+
+- Address: Fuzhou, P. R. China
+- Email: balabala@foxmail.com
+
+<!-- slide vertical=true -->
 
 # Header 1
 ## Header 2
