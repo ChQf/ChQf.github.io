@@ -16,7 +16,7 @@ redirect_from:
 
 ## Experience
 
-* The Berkeley Lecture, University of California, Berkeley, Jul. 2018 ¨C Aug. 2018<br>*Distinction in Overall Achievement Award*
+* The Berkeley Lecture, University of California, Berkeley, Jul. 2018 - Aug. 2018<br>*Distinction in Overall Achievement Award*
 
 ---
 
