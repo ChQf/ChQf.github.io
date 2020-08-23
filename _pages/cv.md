@@ -50,9 +50,6 @@ redirect_from:
 
 ## Skills
 
-* Programming: Python, Keras, Tensorflow, C, MATLAB, STM32
-* Power System-related: PSD-BPA, PSASP
-* Other Software: Origin, AutoCAD, Altium Designer, NoteExpress, Photoshop, Microsoft Office, Visio
 
 <!--
 Work experience
