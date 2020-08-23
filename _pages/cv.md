@@ -9,8 +9,14 @@ redirect_from:
 
 ## Education
 
+* M.Eng. in Power System & Automation, Fuzhou University, 2018 - 2021 (Expected)
 * B.Eng. in Electrical Engineering & Automation, Fuzhou University, 2014 - 2018
-* M.Eng. in Power System & Automation, Fuzhou University, 2018 - 2021 (expected)
+
+---
+
+## Experience
+
+* The Berkeley Lecture, University of California, Berkeley, Jul. 2018 ¨C Aug. 2018<br>*Distinction in Overall Achievement Award*
 
 ---
 

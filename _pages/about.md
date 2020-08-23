@@ -1,12 +1,28 @@
 ---
 permalink: /
-title: "Hi! I am Qifan Chen"
+title: "About me - Hi! I am Qifan Chen"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+I currently is a postgraduate student majoring in Power System & Automation with College of Electrical Engineering & Automation, Fuzhou University, Fuzhou, China.
+I received my B.Eng degree in Electrical Engineering & Automation from Fuzhou University, Fuzhou, China, in 2018.
+Then, I was recommended for admission to be a postgraduate without exams.
+My current research interests are **application of big data/machine learning in power system (evaluation, prediction and optimization)**, and **power system transient stability assessment**.
+I my undergraduate period, I was committed to participating in robotics competitions, in which I combined MCU with sensors to control robot behaviors.
+
+---
+
+## News
+
+* Oct. 2020, my new research manuscript (first author) was submitted to Neural Computing & Applications.
+* Oct. 2020, my new research manuscript (in Chinese, first author) was submitted to Power System Technology.
+* Jul. 2020, my new research manuscript (in Chinese, first author) was submitted to Power System Technology.
+* Jul. 2020, my new research manuscript (first author) was submitted to IEEE Transactions on Power Systems.
+* Jun. 2020, my new research manuscript (co-author) was submitted to IEEE Transactions on Power Systems.
 
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
@@ -25,6 +41,7 @@ Getting started
 1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
 1. Check status by going to the repository settings, in the "GitHub pages" section
 
+<!--
 Site-wide configuration
 ------
 The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
@@ -48,3 +65,4 @@ Example: editing a markdown file for a talk
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-->
