@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me - Hi! I am Qifan Chen"
+title: "ABOUT ME - Hi! I am Qifan Chen"
 excerpt: "About me"
 author_profile: true
 redirect_from: 

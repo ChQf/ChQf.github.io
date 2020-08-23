@@ -46,6 +46,14 @@ redirect_from:
 1. Fuzhou University Comprehensive Scholarship (4 times), Apr., Oct. 2016 & Apr., Oct. 2017
 1. Star of Innovation and Entrepreneurship of Fuzhou University (2 times), May 2016 & May 2017
 
+---
+
+## Skills
+
+* Programming: Python, Keras, Tensorflow, C, MATLAB, STM32
+* Power System-related: PSD-BPA, PSASP
+* Other Software: Origin, AutoCAD, Altium Designer, NoteExpress, Photoshop, Microsoft Office, Visio
+
 <!--
 Work experience
 ======
