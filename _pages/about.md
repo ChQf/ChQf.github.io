@@ -12,7 +12,7 @@ I currently is a postgraduate student majoring in Power System & Automation with
 I received my B.Eng degree in Electrical Engineering & Automation from Fuzhou University, Fuzhou, China, in 2018.
 Then, I was recommended for admission to be a postgraduate without exams.
 My current research interests are **application of big data/machine learning in power system (evaluation, prediction and optimization)**, and **power system transient stability assessment**.
-I my undergraduate period, I was committed to participating in robotics competitions, in which I combined MCU with sensors to control robot behaviors.
+In my undergraduate period, I was committed to participating in robotics competitions, in which I combined MCU with sensors to control robot behaviors.
 
 ---
 
