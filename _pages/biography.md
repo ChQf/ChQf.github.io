@@ -42,6 +42,7 @@ redirect_from:
 ### Honors & Awards
 
 1. Fuzhou University Outstanding Postgraduate Freshmen Special Scholarship, Nov. 2018
+1. Overseas Visiting Fund for Outstanding Students of Fuzhou University, Jun. 2018
 1. Outstanding Graduate of College of Electrical Engineering and Automation, Fuzhou University, Jun. 2018
 1. Fuzhou University Comprehensive Scholarship (4 times), Apr., Oct. 2016 & Apr., Oct. 2017
 1. Star of Innovation and Entrepreneurship of Fuzhou University (2 times), May 2016 & May 2017
