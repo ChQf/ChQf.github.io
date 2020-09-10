@@ -16,6 +16,9 @@ author_profile: true
 1. "Effective Load Shedding Site Offline Selection Method for Improving Voltage Stability," China patent CN108599176A, 28 Sep. 2018. (Substantive examination)
 1. "Ordering Method of Reactive Compensation Places of Power System Based on Network Structure," China patent CN108574287A, 25 Sep. 2018. (Substantive examination)
 
+## Project
+
+1. "Transient Stability Assessment Model Based on Big Data Analysis," the Education and Scientific Research Project for Young and Middle-aged Teachers of Fujian Province, China, 2018-2019. (Participate)
 
 <!--
 {% include base_path %}

@@ -11,23 +11,23 @@ redirect_from:
 I currently is a postgraduate student majoring in Power System & Automation with College of Electrical Engineering & Automation, Fuzhou University, Fuzhou, China.
 I received my B.Eng degree in Electrical Engineering & Automation from Fuzhou University, Fuzhou, China, in 2018.
 Then, I was recommended for admission to be a postgraduate without exams.
-My current research interests are **application of big data/machine learning in power system (evaluation, prediction and optimization)**, and **power system transient stability assessment**.
+My current research interests are **application of big data/machine learning in power system (evaluation, prediction and optimization)**.
 In my undergraduate period, I was committed to participating in robotics competitions, in which I combined MCU with sensors to control robot behaviors.
 
 ---
 
 ## News
 
-* Oct. 2020, my new research manuscript (first author) was submitted to Neural Computing & Applications.
-* Oct. 2020, my new research manuscript (in Chinese, first author) was submitted to Power System Technology.
+* Aug. 2020, my new research manuscript (first author) was submitted to Neural Computing & Applications.
+* Aug. 2020, my new research manuscript (in Chinese, first author) was submitted to Power System Technology.
 * Jul. 2020, my new research manuscript (in Chinese, first author) was submitted to Power System Technology.
 * Jul. 2020, my new research manuscript (first author) was submitted to IEEE Transactions on Power Systems.
-* Jun. 2020, my new research manuscript (co-author) was submitted to IEEE Transactions on Power Systems.
+
 
 
 <!--
 This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
-
+Jun. 2020, my new research manuscript (co-author) was submitted to IEEE Transactions on Power Systems.
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
