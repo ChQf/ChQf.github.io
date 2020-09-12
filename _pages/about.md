@@ -20,7 +20,6 @@ In my undergraduate period, I was committed to participating in robotics competi
 
 * Aug. 2020, my new research manuscript (first author) was submitted to Neural Computing & Applications.
 * Aug. 2020, my new research manuscript (in Chinese, first author) was submitted to Power System Technology.
-* Jul. 2020, my new research manuscript (in Chinese, first author) was submitted to Power System Technology.
 * Jul. 2020, my new research manuscript (first author) was submitted to IEEE Transactions on Power Systems.
 
 
