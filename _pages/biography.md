@@ -41,6 +41,7 @@ redirect_from:
 
 ### Honors & Awards
 
+1. Fuzhou University Outstanding Academic Scholarships for Postgraduate, Oct. 2020
 1. Fuzhou University Outstanding Postgraduate Freshmen Special Scholarship, Nov. 2018
 1. Overseas Visiting Fund for Outstanding Students of Fuzhou University, Jun. 2018
 1. Outstanding Graduate of College of Electrical Engineering and Automation, Fuzhou University, Jun. 2018
