@@ -18,11 +18,11 @@ In my undergraduate period, I was committed to participating in robotics competi
 
 ## News
 
+* Jan. 2021, I successfully defended my master thesis named "An Adaptive Transient Stability Assessment Model Based on Deep Learning" (Grade: Excellent).
+* Jan. 2021, my new research manuscript (corresponding author) was submitted to CSEE Journal Journal of Power & Energy Systems.
 * Jan. 2021, my new research manuscript (co-author) submitted to International Transactions on Electrical & Energy System was under major revision.
 * Dec. 2020, my new research manuscript (first author) was submitted to International Journal of Electrical Power & Energy Systems.
 * Dec. 2020, I was awarded with the Lifud Scholarship for Postgraduate, Fuzhou University.
-* Dec. 2020, I completed my master thesis named "An Adaptive Transient Stability Assessment Model Based on Deep Learning", and my thesis defense is expected to be held in Feb. 2021.
-* Nov. 2020, my new research manuscript (corresponding author) submitted to IEEE Transactions on Power Systems was under the 2nd round review.
 * Oct. 2020, I was awarded with Outstanding Academic Scholarship for Postgraduate, Fuzhou University.
 
 
