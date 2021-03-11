@@ -18,6 +18,7 @@ In my undergraduate period, I was committed to participating in robotics competi
 
 ## News
 
+* Mar. 2021, Acceptance: my new research manuscript (co-author) was accepted by Electric Power Automation Equipment.
 * Mar. 2021, Acceptance: my new research manuscript (first author) was accepted by International Journal of Electrical Power & Energy Systems.
 * Mar. 2021, my new research manuscript (first author) submitted to International Journal of Electrical Power & Energy Systems was under major revision.
 * Mar. 2021, my new research manuscript (corresponding author) submitted to CSEE Journal Journal of Power & Energy Systems was under major revision.
