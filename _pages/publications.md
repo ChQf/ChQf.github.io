@@ -8,7 +8,7 @@ author_profile: true
 ## Peer-reviewed Journal Papers
 
 ### 2021
-1. **Qifan Chen**, Nan Lin, and Huaiyuan Wang, "Transient Stability Assessment Model with Parallel Structure and Data Augmentation", ***International Journal of Electrical Power & Energy Systems***, 2021. (Accepted) (SCI, EI)<br>
+1. **Qifan Chen**, Nan Lin, and Huaiyuan Wang, "Transient Stability Assessment Model with Parallel Structure and Data Augmentation", ***International Transactions on Electrical Energy Systems***, 2021. (Accepted) (SCI, EI)<br>
 
 ### 2020
 1. Huaiyuan Wang, **Qifan Chen**, and Baohui Zhang, "Transient Stability Assessment Combined Model Framework Based on Cost-Sensitive Method," ***IET Generation, Transmission & Distribution***, vol.14, no.12, pp. 2256-2262, 2020. (SCI, EI)<br>
