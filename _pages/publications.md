@@ -9,6 +9,7 @@ author_profile: true
 
 ### 2021
 1. **Qifan Chen**, Nan Lin, and Huaiyuan Wang, "Transient Stability Assessment Model with Parallel Structure and Data Augmentation", ***International Transactions on Electrical Energy Systems***, 2021. (Accepted) (SCI, EI)<br>
+1. Nan Lin, Huaiyuan Wang, and **Qifan Chen**, "A Bias Modified Method of SSAE Transient Stability Assessment Model Based on Posterior Distribution Information", ***Electric Power Automation Equipment***, 2021. (Accepted) (in Chinese) (EI)<br>
 
 ### 2020
 1. Huaiyuan Wang, **Qifan Chen**, and Baohui Zhang, "Transient Stability Assessment Combined Model Framework Based on Cost-Sensitive Method," ***IET Generation, Transmission & Distribution***, vol.14, no.12, pp. 2256-2262, 2020. (SCI, EI)<br>
@@ -18,14 +19,3 @@ author_profile: true
 ### 2019
 1. Huaiyuan Wang, and **Qifan Chen**, "Transient Stability Assessment Method of Electric Power Systems Based on Stacked Variational Auto-encoder," ***Electric Power Automation Equipment***, vol.39, no.12, pp. 134-139, Dec. 2019. (in Chinese) (Award winning papers from the 19th Annual Conference of Fujian Society for Electrical Engineering) (EI)
 
-<!--
-#{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-#{% endif %}
-
-#{% include base_path %}
-
-#{% for post in site.publications reversed %}
-#  {% include archive-single.html %}
-#{% endfor %}
--->
