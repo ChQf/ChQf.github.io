@@ -9,7 +9,7 @@ redirect_from:
 
 ## Education
 
-* M.Eng. in Power System & Automation, Fuzhou University, 2018 - 2021 (Expected)
+* M.Eng. in Power System & Automation, Fuzhou University, 2018 - 2021
 * B.Eng. in Electrical Engineering & Automation, Fuzhou University, 2014 - 2018
 
 ---
