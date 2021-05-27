@@ -18,7 +18,7 @@ In my undergraduate period, I was committed to participating in robotics competi
 
 * May 2021, my new research manuscript (first author) submitted to *CSEE Journal Journal of Power & Energy Systems* was under major revision.
 * Apr. 2021, Acceptance: my new research manuscript (first author) was accepted by *International Journal of Electrical Power & Energy Systems*.
-* Mar. 2021, **I received my M.Eng degree in Power System & Automation.**
+* Mar. 2021, **I received my M.Eng degree in Power System & Automation from Fuzhou University, China.**
 * Mar. 2021, Award: I was awarded Outstanding Graduate of Fuzhou University.
 * Mar. 2021, Acceptance: my new research manuscript (co-author) was accepted by *Electric Power Automation Equipment*.
 * Mar. 2021, Acceptance: my new research manuscript (first author) was accepted by *International Transactions on Electrical Energy Systems*.
