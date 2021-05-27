@@ -8,21 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-Currently, I am a postgraduate student majoring in Power System & Automation with the College of Electrical Engineering & Automation, Fuzhou University, Fuzhou, China.
-I received my B.Eng degree in Electrical Engineering & Automation from Fuzhou University, Fuzhou, China, in 2018.
-Then, I was recommended for admission to be a postgraduate without exams.
-My current research interests are **the application of big data/machine learning in power systems (evaluation, prediction, and optimization)**.
-In my undergraduate period, I was committed to participating in robotics competitions, in which I combined MCU with sensors to control robot behaviors.
+I received my M.Eng degree in Power System & Automation and B.Eng degree in Electrical Engineering & Automation from Fuzhou University, China, in 2021 and 2018, respectively.
+My current research interest is **the application of big data/machine learning in power systems (evaluation, prediction, and optimization)**.
+In my undergraduate period, I was committed to participating in robotics competitions, in which I combined MCU with sensors to control the behaviors of robots.
 
 ---
 
 ## News
 
-* Apr. 2021, Acceptance: my new research manuscript (first author) was accepted by International Journal of Electrical Power & Energy Systems.
+* May 2021, my new research manuscript (first author) submitted to *CSEE Journal Journal of Power & Energy Systems* was under major revision.
+* Apr. 2021, Acceptance: my new research manuscript (first author) was accepted by *International Journal of Electrical Power & Energy Systems*.
+* Mar. 2021, **I received my M.Eng degree in Power System & Automation.**
 * Mar. 2021, Award: I was awarded Outstanding Graduate of Fuzhou University.
-* Mar. 2021, Acceptance: my new research manuscript (co-author) was accepted by Electric Power Automation Equipment.
-* Mar. 2021, Acceptance: my new research manuscript (first author) was accepted by International Transactions on Electrical Energy Systems.
-* Mar. 2021, my new research manuscript (corresponding author) submitted to CSEE Journal Journal of Power & Energy Systems was under major revision.
+* Mar. 2021, Acceptance: my new research manuscript (co-author) was accepted by *Electric Power Automation Equipment*.
+* Mar. 2021, Acceptance: my new research manuscript (first author) was accepted by *International Transactions on Electrical Energy Systems*.
 * Jan. 2021, I successfully defended my master thesis named "An Adaptive Transient Stability Assessment Model Based on Deep Learning" (Grade: Excellent).
 * Dec. 2020, Scholarship: I was awarded Lifud Scholarship for Postgraduate, Fuzhou University.
 * Oct. 2020, Scholarship: I was awarded Outstanding Academic Scholarship for Postgraduate, Fuzhou University.
