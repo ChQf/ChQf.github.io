@@ -58,4 +58,4 @@ redirect_from:
 * Machine learning: Keras, Tensorflow, scikit-learn, pandas
 * Programming: Python, C, MATLAB, STM32(mainly based on C)
 * Power System-related: PSD-BPA, PSASP
-* Other Software: Origin, AutoCAD, Altium Designer, NoteExpress, Photoshop, Microsoft Office, Visio
+* Other Software: Origin, AutoCAD, Altium Designer, NoteExpress, Photoshop, Visio
