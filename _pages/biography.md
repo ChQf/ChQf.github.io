@@ -42,6 +42,7 @@ redirect_from:
 
 ### Honors & Awards
 
+1. Fuzhou University Outstanding Academic Scholarships for Postgraduate, Jul. 2021
 1. Outstanding Graduate of Fuzhou University, Mar. 2021
 1. Fuzhou University Lifud Scholarship for Postgraduate, Dec. 2020
 1. Fuzhou University Outstanding Academic Scholarships for Postgraduate, Oct. 2020
