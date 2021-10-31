@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-US"
-title                    : "Home"
-title_separator          : "_"
+locale                   : "zh-CN"
+title                    : "Qifan Chen"
+title_separator          : "-"
 name                     : &name "Qifan Chen"
 description              : &description "Qifan Chen, Electrical Engineering, Fuzhou University"
 url                      : https://chqf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
