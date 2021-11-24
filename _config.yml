@@ -85,8 +85,8 @@ author:
   bio              : "M.Eng. in Electrical Engineering, Fuzhou University"
   location         : "Fuzhou University, Qishan Campus<br>&#160;&#160;&#160;&#160;&#160;&#160;Fuzhou, China"
   employer         :
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "qf_chen@foxmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
