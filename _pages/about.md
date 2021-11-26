@@ -16,7 +16,6 @@ In my undergraduate period, I was committed to participating in robotics competi
 
 ## News
 
-<p style="text-align:justify; text-justify:inter-ideograph;">
 * Jul. 2021, Award: I was awarded Outstanding Academic Scholarship for Postgraduate, Fuzhou University.
 * Jul. 2021, Acceptance: my new research manuscript (first author) was accepted by *CSEE Journal Journal of Power & Energy Systems*.
 * Apr. 2021, Acceptance: my new research manuscript (first author) was accepted by *International Journal of Electrical Power & Energy Systems*.
