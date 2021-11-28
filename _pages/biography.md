@@ -11,6 +11,7 @@ redirect_from:
 
 * M.Eng. in Power System & Automation, Fuzhou University, 2018 - 2021
 * B.Eng. in Electrical Engineering & Automation, Fuzhou University, 2014 - 2018
+{: .text-justify}
 
 ---
 
@@ -18,12 +19,14 @@ redirect_from:
 
 * The Berkeley Lecture, University of California, Berkeley, Jul. 2018 - Aug. 2018
 <br>Full funded by Fuzhou University, *Distinction in Overall Achievement Award*
+{: .text-justify}
 
 ---
 
 ## Academic Service
 
 * Reviewer, *IEEE Transactions on Power Systems*
+{: .text-justify}
 
 ---
 
@@ -39,6 +42,7 @@ redirect_from:
 1. China RoboWork Competition, 1st Prize (top 3.4%), May 2016
 1. China Robot Competition and RoboCup Open, 2nd Prize, Oct. 2015
 1. China RoboWork Competition, 2nd Prize, Jul. 2015
+{: .text-justify}
 
 ### Honors & Awards
 
@@ -51,6 +55,7 @@ redirect_from:
 1. Outstanding Graduate of College of Electrical Engineering and Automation, Fuzhou University, Jun. 2018
 1. Fuzhou University Comprehensive Scholarship (4 times), Apr., Oct. 2016 & Apr., Oct. 2017
 1. Star of Innovation and Entrepreneurship of Fuzhou University (2 times), May 2016 & May 2017
+{: .text-justify}
 
 ---
 

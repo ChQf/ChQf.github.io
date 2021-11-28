@@ -15,12 +15,14 @@ author_profile: true
 1. "Off-line Sorting Method for Load-shedding Locations for Improving Voltage Stability," China patent of invention CN108631321A, 9 Oct. 2018. (Substantive examination)
 1. "Effective Load Shedding Site Offline Selection Method for Improving Voltage Stability," China patent of invention CN108599176A, 28 Sep. 2018. (Substantive examination)
 1. "Ordering Method of Reactive Compensation Places of Power System Based on Network Structure," China patent of invention CN108574287A, 25 Sep. 2018. (Substantive examination)
+{: .text-justify}
 
 ## Projects
 
 1. "Transient Stability Assessment Model Based on Big Data Analysis," the Education and Scientific Research Project for Young and Middle-aged Teachers of Fujian Province, China, 2018 - 2019. (Participate)
 2. "STM32-based Intelligent Transport Robot", Student Research Training Program of Fuzhou University, Jan. 2015 - Dec. 2015. (Principal Investigator)
 {: .text-justify}
+
 <!--
 {% include base_path %}
 
