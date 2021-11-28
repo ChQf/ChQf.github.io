@@ -20,7 +20,7 @@ author_profile: true
 
 1. "Transient Stability Assessment Model Based on Big Data Analysis," the Education and Scientific Research Project for Young and Middle-aged Teachers of Fujian Province, China, 2018 - 2019. (Participate)
 2. "STM32-based Intelligent Transport Robot", Student Research Training Program of Fuzhou University, Jan. 2015 - Dec. 2015. (Principal Investigator)
-
+{: .text-justify}
 <!--
 {% include base_path %}
 

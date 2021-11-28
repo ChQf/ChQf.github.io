@@ -20,4 +20,4 @@ author_profile: true
 
 ### 2019
 1. Huaiyuan Wang, and **Qifan Chen**, "Transient Stability Assessment Method of Electric Power Systems Based on Stacked Variational Auto-encoder," ***Electric Power Automation Equipment***, vol.39, no.12, pp. 134-139, Dec. 2019. (**EI**) (in Chinese) (Award winning papers from the 19th Annual Conference of Fujian Society for Electrical Engineering)
-
+{: .text-justify}
