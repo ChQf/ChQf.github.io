@@ -26,4 +26,4 @@ In my undergraduate period, I was committed to participating in robotics competi
 * Jan. 2021, I successfully defended my master thesis named "An Adaptive Transient Stability Assessment Model Based on Deep Learning" (Grade: Excellent).
 * Dec. 2020, Scholarship: I was awarded Lifud Scholarship for Postgraduate, Fuzhou University.
 * Oct. 2020, Scholarship: I was awarded Outstanding Academic Scholarship for Postgraduate, Fuzhou University.
-
+{: .text-justify}
