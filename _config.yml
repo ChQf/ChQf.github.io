@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Qifan Chen"
   avatar           : "profile.png"
-  bio              : "Ph.D. student in Electrical Engineering, The Hong Kong Polytechnic University"
+  bio              : "Ph.D. student in Electrical Engineering, The Hong Kong Polytechnic University{: .text-justify}"
   location         : "The Hong Kong Polytechnic University, <br>&#160;&#160;&#160;&#160;&#160;&#160;Kowloon, Hong Kong SAR, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
