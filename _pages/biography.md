@@ -9,6 +9,7 @@ redirect_from:
 
 ## Education
 
+* Ph.D. in Electrical Engineering, The Hong Kong Polytechnic University, 2022 - present
 * M.Eng. in Power System & Automation, Fuzhou University, 2018 - 2021
 * B.Eng. in Electrical Engineering & Automation, Fuzhou University, 2014 - 2018
 {: .text-justify}
@@ -17,6 +18,7 @@ redirect_from:
 
 ## Experience
 
+* Junior Engineering, Maintenance Branch Company of State Grid Fujian Electric Power CO., LTD., Aug. 2021 - Nov. 2021
 * The Berkeley Lecture, University of California, Berkeley, Jul. 2018 - Aug. 2018
 <br>Full funded by Fuzhou University, *Distinction in Overall Achievement Award*
 {: .text-justify}

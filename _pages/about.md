@@ -7,9 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I received my M.Eng degree in Power System & Automation and B.Eng degree in Electrical Engineering & Automation both from Fuzhou University, China, in 2021 and 2018, respectively.
+I am currently pursuing my Ph.D. degree in the Department of Electrical Engineering, [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/) ([RISA research lab](https://www.polyu.edu.hk/ee/siqibu/index.html)).
+I received my M.Eng degree in Power System & Automation and B.Eng degree in Electrical Engineering & Automation both from [Fuzhou University](https://www.fzu.edu.cn/), China, in 2021 and 2018, respectively.
 My current research interest is **the application of big data/machine learning in power systems (evaluation, prediction, and optimization)**.
-In my undergraduate period, I was committed to participating in robotics competitions, in which I combined MCU with sensors to control the behaviors of robots.
 {: .text-justify}
 ---
 
