@@ -7,8 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently pursuing my Ph.D. degree in the Department of Electrical Engineering, [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/){target="_blank"} ([RISA research lab](https://www.polyu.edu.hk/ee/siqibu/index.html){target="_blank"}).
-I received my M.Eng degree in Power System & Automation and B.Eng degree in Electrical Engineering & Automation both from [Fuzhou University](https://www.fzu.edu.cn/){target="_blank"}, China, in 2021 and 2018, respectively.
+I am currently pursuing my Ph.D. degree in the Department of Electrical Engineering, [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/){:target="_blank"} ([RISA research lab](https://www.polyu.edu.hk/ee/siqibu/index.html){:target="_blank"}).
+I received my M.Eng degree in Power System & Automation and B.Eng degree in Electrical Engineering & Automation both from [Fuzhou University](https://www.fzu.edu.cn/){:target="_blank"}, China, in 2021 and 2018, respectively.
 My current research interest is **the application of big data/machine learning in power systems (evaluation, prediction, and optimization)**.
 {: .text-justify}
 ---
