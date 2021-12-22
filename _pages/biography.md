@@ -18,7 +18,7 @@ redirect_from:
 
 ## Experience
 
-* Junior Engineering, Maintenance Branch Company of State Grid Fujian Electric Power CO., LTD., Aug. 2021 - Nov. 2021
+* Junior Engineer, Maintenance Branch Company of State Grid Fujian Electric Power CO., LTD., Aug. 2021 - Nov. 2021
 * The Berkeley Lecture, University of California, Berkeley, Jul. 2018 - Aug. 2018
 <br>Full funded by Fuzhou University, *Distinction in Overall Achievement Award*
 {: .text-justify}
