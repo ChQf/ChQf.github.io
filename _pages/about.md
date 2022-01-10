@@ -15,6 +15,7 @@ My current research interest is **the application of big data/machine learning i
 
 ## News
 
+* Jan. 2022, Submission: my new research manuscript (first author) was submitted to *IEEE Transactions on Power Systems*.
 * Jul. 2021, Award: I was awarded Outstanding Academic Scholarship for Postgraduate, Fuzhou University.
 * Jul. 2021, Acceptance: my new research manuscript (first author) was accepted by *CSEE Journal Journal of Power & Energy Systems*.
 * Apr. 2021, Acceptance: my new research manuscript (first author) was accepted by *International Journal of Electrical Power & Energy Systems*.
