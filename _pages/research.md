@@ -7,7 +7,7 @@ author_profile: true
 
 ## Patents
 
-1. "Offline Selection Method for Effective Reactive Compensation Site of Power System," China patent of invention CN108599184B, 27 Apr. 2021. (Granted)
+1. "Offline Selection Method for Effective Reactive Compensation Site of Power System," China patent of invention ZL201810466394.8, 27 Apr. 2021. (Granted)
 1. "Online Selection Method for Effective Reactive Power Compensation Location of Power System," China patent of invention CN108923439A, 30 Nov. 2018. (Substantive examination)
 1. "Online Selection Method for Effective Load-shedding Locations Capable of Improving Voltage Stability," China patent of invention CN108923433A, 30 Nov. 2018. (Substantive examination)
 1. "Online Sorting Method for Load Shredding Places and Capable of Improving Voltage Stability," China patent of invention CN108899912A, 27 Nov. 2018. (Substantive examination)
