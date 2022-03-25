@@ -28,3 +28,5 @@ My current research interest is **power system transient stability / small signa
 * Dec. 2020, Scholarship: I was awarded Lifud Scholarship for Postgraduate, Fuzhou University.
 * Oct. 2020, Scholarship: I was awarded Outstanding Academic Scholarship for Postgraduate, Fuzhou University.
 {: .text-justify}
+---
+<a href="https://info.flagcounter.com/MXCA"><img src="https://s11.flagcounter.com/count/MXCA/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
