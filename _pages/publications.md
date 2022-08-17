@@ -8,7 +8,7 @@ author_profile: true
 ## Peer-reviewed Journal Papers
 
 ### 2022
-1. **Qifan Chen**, Nan Lin, Siqi Bu, Huaiyuan Wang, and Baohui Zhang, "Interpretable Time-adaptive Transient Stability Assessment Based on Dual-stage Attention Mechanism," ***IEEE Transactions on Power Systems***, 2022. (**SCI JCR Q1, EI**) (Accepted)<br>
+1. **Qifan Chen**, Nan Lin, Siqi Bu, Huaiyuan Wang, and Baohui Zhang, "Interpretable Time-adaptive Transient Stability Assessment Based on Dual-stage Attention Mechanism," ***IEEE Transactions on Power Systems***, 2022. (**SCI JCR Q1, EI**) (Early Access)<br>
 1. Nan Lin, Huaiyuan Wang, and **Qifan Chen**, "A Bias Modified Method of SSAE Transient Stability Assessment Model Based on Posterior Distribution Information," ***Electric Power Automation Equipment***, vol.42, no.3, pp. 135-141, 2022. (**EI**) (in Chinese)<br>
 {: .text-justify}
 

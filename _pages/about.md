@@ -9,12 +9,13 @@ redirect_from:
 ---
 I am currently pursuing my Ph.D. degree in Electrical Engineering at the Department of Electrical Engineering, [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/){:target="_blank"} ([RISA research lab](https://www.polyu.edu.hk/ee/siqibu/index.html){:target="_blank"}).
 I received my M.Eng degree in Power System & Automation and B.Eng degree in Electrical Engineering & Automation both from [Fuzhou University](https://www.fzu.edu.cn/){:target="_blank"}, China, in 2021 and 2018, respectively.
-My current research interest is **power system transient stability / small signal stability analysis, and application of machine learning in power system stability**.
+My current research interests include **power system transient stability / small signal stability analysis, and application of machine learning in power system stability**.
 {: .text-justify}
 ---
 
 ## News
 
+* Aug. 2022, Submission: my new research manuscript (first author) was submitted to *IET APSCOM 2022*.
 * Jun. 2022, Acceptance: my new research manuscript (first author) was accepted by *IEEE Transactions on Power Systems*.
 * Mar. 2022, Submission: my new research manuscript (co-author) was submitted to *IEEE Transactions on Power Systems*.
 * Dec. 2021, Award: my research paper (co-author) was awarded as *High impact paper of Proceedings of The CSEE in 2021*.
@@ -25,7 +26,7 @@ My current research interest is **power system transient stability / small signa
 * Mar. 2021, Award: I was awarded Outstanding Graduate of Fuzhou University.
 * Mar. 2021, Acceptance: my new research manuscript (co-author) was accepted by *Electric Power Automation Equipment*.
 * Mar. 2021, Acceptance: my new research manuscript (first author) was accepted by *International Transactions on Electrical Energy Systems*.
-* Jan. 2021, I successfully defended my master thesis named "An Adaptive Transient Stability Assessment Model Based on Deep Learning" (Grade: Excellent).
+* Jan. 2021, I successfully defended my master thesis titled "An Adaptive Transient Stability Assessment Model Based on Deep Learning" (Grade: Excellent).
 * Dec. 2020, Scholarship: I was awarded Lifud Scholarship for Postgraduate, Fuzhou University.
 * Oct. 2020, Scholarship: I was awarded Outstanding Academic Scholarship for Postgraduate, Fuzhou University.
 {: .text-justify}
