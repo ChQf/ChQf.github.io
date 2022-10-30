@@ -15,7 +15,7 @@ My current research interests include **power system transient stability / small
 
 ## News
 
-* Aug. 2022, Submission: my new research manuscript (first author) was submitted to *IET APSCOM 2022*.
+* Oct. 2022, Submission: my new research manuscript (first author) was submitted to *IEEE Transactions on Power Systems*.
 * Jun. 2022, Acceptance: my new research manuscript (first author) was accepted by *IEEE Transactions on Power Systems*.
 * Mar. 2022, Submission: my new research manuscript (co-author) was submitted to *IEEE Transactions on Power Systems*.
 * Dec. 2021, Award: my research paper (co-author) was awarded as *High impact paper of Proceedings of The CSEE in 2021*.

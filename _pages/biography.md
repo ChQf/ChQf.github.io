@@ -27,7 +27,9 @@ redirect_from:
 
 ## Academic Service
 
-* Reviewer, *IEEE Transactions on Power Systems*
+* Reviewer -
+<br>*IEEE Transactions on Power Systems*
+<br>*IEEE Power Engineering Letters*
 {: .text-justify}
 
 ---
