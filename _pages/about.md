@@ -8,13 +8,14 @@ redirect_from:
   - /about.html
 ---
 I am currently pursuing my Ph.D. degree in Electrical Engineering at the Department of Electrical Engineering, [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/){:target="_blank"} ([RISA research lab](https://www.polyu.edu.hk/ee/siqibu/index.html){:target="_blank"}).
-I received my M.Eng degree in Power System & Automation and B.Eng degree in Electrical Engineering & Automation both from [Fuzhou University](https://www.fzu.edu.cn/){:target="_blank"}, China, in 2021 and 2018, respectively.
+I received my M.Eng degree in Power System & Automation and B.Eng degree in Electrical Engineering & Automation both from [Fuzhou University](https://dqxy.fzu.edu.cn/){:target="_blank"}, China, in 2021 and 2018, respectively.
 My current research interests include **power system transient stability / small signal stability analysis, and application of machine learning in power system stability**.
 {: .text-justify}
 ---
 
 ## News
 
+* Nov. 2022, Award: I was awarded Outstanding Master's Thesis of Fujian Province, China.
 * Oct. 2022, Submission: my new research manuscript (first author) was submitted to *IEEE Transactions on Power Systems*.
 * Jun. 2022, Acceptance: my new research manuscript (first author) was accepted by *IEEE Transactions on Power Systems*.
 * Mar. 2022, Submission: my new research manuscript (co-author) was submitted to *IEEE Transactions on Power Systems*.
