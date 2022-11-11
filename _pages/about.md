@@ -22,7 +22,7 @@ My current research interests include **power system transient stability / small
 * Mar. 2022, Submission: my new research manuscript (co-author) was submitted to *IEEE Transactions on Power Systems*.
 * Dec. 2021, Award: my research paper (co-author) was awarded as the *High Impact Paper of Proceedings of The CSEE in 2021*.
 * Jul. 2021, Award: I was awarded the Outstanding Academic Scholarship for Postgraduate, Fuzhou University.
-* Jul. 2021, Acceptance: my new research manuscript (first author) was accepted by *CSEE Journal Journal of Power & Energy Systems*.
+* Jul. 2021, Acceptance: my new research manuscript (first author) was accepted by *CSEE Journal of Power & Energy Systems*.
 * Apr. 2021, Acceptance: my new research manuscript (first author) was accepted by *International Journal of Electrical Power & Energy Systems*.
 * Mar. 2021, **I received my M.Eng degree in Power System & Automation from Fuzhou University, China.**
 * Mar. 2021, Award: I was awarded the Outstanding Graduate of Fuzhou University.
