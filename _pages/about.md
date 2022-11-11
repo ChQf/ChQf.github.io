@@ -15,21 +15,22 @@ My current research interests include **power system transient stability / small
 
 ## News
 
-* Nov. 2022, Award: I was awarded Outstanding Master's Thesis of Fujian Province, China.
+* Nov. 2022, Submission: my new research manuscript (co-author) was submitted to *2023 IEEE PESGM*.
+* Nov. 2022, Award: I was awarded the Outstanding Master's Thesis of Fujian Province, China.
 * Oct. 2022, Submission: my new research manuscript (first author) was submitted to *IEEE Transactions on Power Systems*.
 * Jun. 2022, Acceptance: my new research manuscript (first author) was accepted by *IEEE Transactions on Power Systems*.
 * Mar. 2022, Submission: my new research manuscript (co-author) was submitted to *IEEE Transactions on Power Systems*.
-* Dec. 2021, Award: my research paper (co-author) was awarded as *High impact paper of Proceedings of The CSEE in 2021*.
-* Jul. 2021, Award: I was awarded Outstanding Academic Scholarship for Postgraduate, Fuzhou University.
+* Dec. 2021, Award: my research paper (co-author) was awarded as the *High Impact Paper of Proceedings of The CSEE in 2021*.
+* Jul. 2021, Award: I was awarded the Outstanding Academic Scholarship for Postgraduate, Fuzhou University.
 * Jul. 2021, Acceptance: my new research manuscript (first author) was accepted by *CSEE Journal Journal of Power & Energy Systems*.
 * Apr. 2021, Acceptance: my new research manuscript (first author) was accepted by *International Journal of Electrical Power & Energy Systems*.
 * Mar. 2021, **I received my M.Eng degree in Power System & Automation from Fuzhou University, China.**
-* Mar. 2021, Award: I was awarded Outstanding Graduate of Fuzhou University.
+* Mar. 2021, Award: I was awarded the Outstanding Graduate of Fuzhou University.
 * Mar. 2021, Acceptance: my new research manuscript (co-author) was accepted by *Electric Power Automation Equipment*.
 * Mar. 2021, Acceptance: my new research manuscript (first author) was accepted by *International Transactions on Electrical Energy Systems*.
 * Jan. 2021, I successfully defended my master thesis titled "An Adaptive Transient Stability Assessment Model Based on Deep Learning" (Grade: Excellent).
-* Dec. 2020, Scholarship: I was awarded Lifud Scholarship for Postgraduate, Fuzhou University.
-* Oct. 2020, Scholarship: I was awarded Outstanding Academic Scholarship for Postgraduate, Fuzhou University.
+* Dec. 2020, Scholarship: I was awarded the Lifud Scholarship for Postgraduate, Fuzhou University.
+* Oct. 2020, Scholarship: I was awarded the Outstanding Academic Scholarship for Postgraduate, Fuzhou University.
 {: .text-justify}
 ---
 <a href="https://info.flagcounter.com/MXCA"><img src="https://s11.flagcounter.com/count/MXCA/bg_FFFFFF/txt_000000/border_CCCCCC/columns_5/maxflags_10/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
