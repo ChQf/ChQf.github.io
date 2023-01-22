@@ -15,7 +15,7 @@ My current research interests include **power system transient stability / small
 
 ## News
 
-* Jan. 2023, Submission: my new research manuscript (co-author) was accepted by *IEEE Transactions on Power Systems*.
+* Jan. 2023, Acceptance: my new research manuscript (co-author) was accepted by *IEEE Transactions on Power Systems*.
 * Nov. 2022, Submission: my new research manuscript (first-author) was submitted to *2023 IEEE PESGM*.
 * Nov. 2022, Submission: my new research manuscript (co-author) was submitted to *2023 IEEE PESGM*.
 * Nov. 2022, Award: I was awarded the Outstanding Master's Thesis of Fujian Province, China.
