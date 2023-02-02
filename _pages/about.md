@@ -8,14 +8,15 @@ redirect_from:
   - /about.html
 ---
 I am currently pursuing my Ph.D. degree in Electrical Engineering at the Department of Electrical Engineering, [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/){:target="_blank"} ([RISA research lab](https://www.polyu.edu.hk/ee/siqibu/index.html){:target="_blank"}).
-I received my M.Eng degree in Power System & Automation and B.Eng degree in Electrical Engineering & Automation both from [Fuzhou University](https://dqxy.fzu.edu.cn/){:target="_blank"}, China, in 2021 and 2018, respectively.
+I received my M.Eng. degree in Power System & Automation and B.Eng. degree in Electrical Engineering & Automation both from [Fuzhou University](https://dqxy.fzu.edu.cn/){:target="_blank"}, China, in 2021 and 2018, respectively.
 My current research interests include **power system transient stability / small signal stability analysis, and application of machine learning in power system stability**.
 {: .text-justify}
 ---
 
 ## News
-
+* Feb. 2023, Submission: my new review manuscript (first-author) was submitted to *CSEE Journal of Power and Energy Systems*.
 * Jan. 2023, Acceptance: my new research manuscript (co-author) was accepted by *IEEE Transactions on Power Systems*.
+* Nov. 2022, Submission: my new research manuscript (co-author) was submitted to *IEEE Power Engineering Letters*.
 * Nov. 2022, Submission: my new research manuscript (first-author) was submitted to *2023 IEEE PESGM*.
 * Nov. 2022, Submission: my new research manuscript (co-author) was submitted to *2023 IEEE PESGM*.
 * Nov. 2022, Award: I was awarded the Outstanding Master's Thesis of Fujian Province, China.
@@ -25,7 +26,7 @@ My current research interests include **power system transient stability / small
 * Jul. 2021, Award: I was awarded the Outstanding Academic Scholarship for Postgraduate, Fuzhou University.
 * Jul. 2021, Acceptance: my new research manuscript (first author) was accepted by *CSEE Journal of Power & Energy Systems*.
 * Apr. 2021, Acceptance: my new research manuscript (first author) was accepted by *International Journal of Electrical Power & Energy Systems*.
-* Mar. 2021, **I received my M.Eng degree in Power System & Automation from Fuzhou University, China.**
+* Mar. 2021, **I received my M.Eng. degree in Power System & Automation from Fuzhou University, China.**
 * Mar. 2021, Award: I was awarded the Outstanding Graduate of Fuzhou University.
 * Mar. 2021, Acceptance: my new research manuscript (co-author) was accepted by *Electric Power Automation Equipment*.
 * Mar. 2021, Acceptance: my new research manuscript (first author) was accepted by *International Transactions on Electrical Energy Systems*.

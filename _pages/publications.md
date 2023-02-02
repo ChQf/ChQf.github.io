@@ -8,7 +8,7 @@ author_profile: true
 ## Peer-reviewed Journal Papers
 
 ### 2023
-1. Chao Lei, Siqi Bu, **Qifan Chen**, Qianggang Wang, and Yuan Chi, “Look-ahead Rolling Economic Dispatch Method of Bundled Wind-Thermal Generation System Considering Retrofitted Ramping Rates and Flexible Load Transfer Strategy,” ***IEEE Transactions on Power Systems***, 2022. (**SCI JCR Q1, EI**) (Accepted)<br>
+1. Chao Lei, Siqi Bu, **Qifan Chen**, Qianggang Wang, and Yuan Chi, “Look-ahead Rolling Economic Dispatch Method of Bundled Wind-Thermal Generation System Considering Retrofitted Ramping Rates and Flexible Load Transfer Strategy,” ***IEEE Transactions on Power Systems***, 2022. (**SCI JCR Q1, EI**) (Early Access)<br>
 {: .text-justify}
 
 ### 2022
