@@ -8,11 +8,11 @@ author_profile: true
 ## Peer-reviewed Journal Papers
 
 ### 2023
+1. 1. **Qifan Chen**, Nan Lin, Siqi Bu, Huaiyuan Wang, and Baohui Zhang, "Interpretable Time-adaptive Transient Stability Assessment Based on Dual-stage Attention Mechanism," ***IEEE Transactions on Power Systems***, vol.38, no.3, 2023. (**SCI JCR Q1, EI**)<br>
 1. Chao Lei, Siqi Bu, **Qifan Chen**, Qianggang Wang, and Yuan Chi, “Look-ahead Rolling Economic Dispatch Method of Bundled Wind-Thermal Generation System Considering Retrofitted Ramping Rates and Flexible Load Transfer Strategy,” ***IEEE Transactions on Power Systems***, 2022. (**SCI JCR Q1, EI**) (Early Access)<br>
 {: .text-justify}
 
 ### 2022
-1. **Qifan Chen**, Nan Lin, Siqi Bu, Huaiyuan Wang, and Baohui Zhang, "Interpretable Time-adaptive Transient Stability Assessment Based on Dual-stage Attention Mechanism," ***IEEE Transactions on Power Systems***, 2022. (**SCI JCR Q1, EI**) (Early Access)<br>
 1. Nan Lin, Huaiyuan Wang, and **Qifan Chen**, "A Bias Modified Method of SSAE Transient Stability Assessment Model Based on Posterior Distribution Information," ***Electric Power Automation Equipment***, vol.42, no.3, pp. 135-141, 2022. (**EI**) (in Chinese)<br>
 {: .text-justify}
 
