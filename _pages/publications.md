@@ -8,8 +8,9 @@ author_profile: true
 ## Peer-reviewed Journal Papers
 
 ### 2023
-1. **Qifan Chen**, Nan Lin, Siqi Bu, Huaiyuan Wang, and Baohui Zhang, "Interpretable Time-adaptive Transient Stability Assessment Based on Dual-stage Attention Mechanism," ***IEEE Transactions on Power Systems***, vol.38, no.3, 2023. (**SCI JCR Q1, EI**)<br>
-1. Chao Lei, Siqi Bu, **Qifan Chen**, Qianggang Wang, and Yuan Chi, “Look-ahead Rolling Economic Dispatch Method of Bundled Wind-Thermal Generation System Considering Retrofitted Ramping Rates and Flexible Load Transfer Strategy,” ***IEEE Transactions on Power Systems***, 2022. (**SCI JCR Q1, EI**) (Early Access)<br>
+1. Chao Lei, Siqi Bu, **Qifan Chen**, Jun Zhong, and Qianggang Wang, “Distribution Network Reconfiguration: A Disjunctive Convex Hull Approach,” ***IEEE Transactions on Power Systems***, 2023. (**SCI JCR Q1, EI**)(Accepted)<br>
+2. **Qifan Chen**, Nan Lin, Siqi Bu, Huaiyuan Wang, and Baohui Zhang, "Interpretable Time-adaptive Transient Stability Assessment Based on Dual-stage Attention Mechanism," ***IEEE Transactions on Power Systems***, vol.38, no.3, pp. 2776-2790, 2023. (**SCI JCR Q1, EI**)<br>
+1. Chao Lei, Siqi Bu, **Qifan Chen**, Qianggang Wang, and Yuan Chi, “Look-ahead Rolling Economic Dispatch Method of Bundled Wind-Thermal Generation System Considering Retrofitted Ramping Rates and Flexible Load Transfer Strategy,” ***IEEE Transactions on Power Systems***, 2023. (**SCI JCR Q1, EI**) (Early Access)<br>
 {: .text-justify}
 
 ### 2022
@@ -30,4 +31,10 @@ author_profile: true
 
 ### 2019
 1. Huaiyuan Wang, and **Qifan Chen**, "Transient Stability Assessment Method of Electric Power Systems Based on Stacked Variational Auto-encoder," ***Electric Power Automation Equipment***, vol.39, no.12, pp. 134-139, Dec. 2019. (**EI**) (in Chinese) (Award winning papers from the 19th Annual Conference of Fujian Society for Electrical Engineering)
+{: .text-justify}
+
+## Peer-reviewed Journal Papers
+### 2023
+1. **Qifan Chen**, Siqi Bu, and Jiaxin Wen, “Clustering-based Two-stage Small-signal Stability Probabilistic Analysis of Power Systems with Uncertainties”. ***IEEE Power & Energy Society General Meeting (PESGM)***, Orlando, Florida, USA, 2023.<br>
+2. Chao Lei, Siqi Bu, Qianggang Wang, and **Qifan Chen**, “Dynamic Ramping of Retrofitted Coal-Fired Power Plants: Basic Formulation and Tightened Approximation,” ***IEEE Power & Energy Society General Meeting (PESGM)***, Orlando, Florida, USA, 2023.<br>
 {: .text-justify}
