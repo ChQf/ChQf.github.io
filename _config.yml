@@ -10,7 +10,7 @@ locale                   : "zh-CN"
 title                    : "Qifan Chen"
 title_separator          : "-"
 name                     : &name "Qifan Chen"
-description              : &description "Qifan Chen, Electrical Engineering, Fuzhou University"
+description              : &description "Qifan Chen, Electrical Engineering, The Hong Kong Polytechnic University"
 url                      : https://chqf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ChQf/ChQf.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Qifan Chen"
   avatar           : "profile.png"
-  bio              : "Ph.D. student in Electrical Engineering, The Hong Kong Polytechnic University"
-  location         : "Kowloon, Hong Kong SAR, China"
+  bio              : "Ph.D. candidate in Electrical Engineering, The Hong Kong Polytechnic University"
+  location         : "Kowloon, Hong Kong SAR"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=gnaW8bEAAAAJ&hl=en-US"  #"http://yourfullgooglescholarurl.com"
   email            : "qf_chen@foxmail.com"
   researchgate     : "https://www.researchgate.net/profile/Qifan-Chen-8"
   uri              :
