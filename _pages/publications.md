@@ -9,7 +9,7 @@ author_profile: true
 
 ### 2023
 1. **Qifan Chen**, Nan Lin, Siqi Bu, Huaiyuan Wang, and Baohui Zhang, "Interpretable Time-adaptive Transient Stability Assessment Based on Dual-stage Attention Mechanism," ***IEEE Transactions on Power Systems***, vol.38, no.3, pp. 2776-2790, 2023. (**SCI JCR Q1, EI**)<br>
-1. Chao Lei, Siqi Bu, **Qifan Chen**, Jun Zhong, and Qianggang Wang, “Distribution Network Reconfiguration: A Disjunctive Convex Hull Approach,” ***IEEE Transactions on Power Systems***, 2023. (**SCI JCR Q1, EI**) (Accepted)<br>
+1. Chao Lei, Siqi Bu, Jun Zhong, **Qifan Chen**, Qianggang Wang, and Qin Wang, “Distribution Network Reconfiguration: A Disjunctive Convex Hull Approach,” ***IEEE Transactions on Power Systems***, 2023. (**SCI JCR Q1, EI**) (Accepted)<br>
 1. Chao Lei, Siqi Bu, **Qifan Chen**, Qianggang Wang, and Yuan Chi, “Look-ahead Rolling Economic Dispatch Method of Bundled Wind-Thermal Generation System Considering Retrofitted Ramping Rates and Flexible Load Transfer Strategy,” ***IEEE Transactions on Power Systems***, 2023. (**SCI JCR Q1, EI**) (Early Access)<br>
 {: .text-justify}
 
