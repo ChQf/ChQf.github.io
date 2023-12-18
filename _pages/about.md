@@ -14,6 +14,7 @@ My current research interests include **power system transient stability / small
 ---
 
 ## News
+* Dec. 2023, Submission: my new research manuscript (first-author) was submitted to *IEEE Transactions on Power Systems*.
 * Dec. 2023, Acceptance: my new research manuscript (first-author) was accepted by *IEEE Transactions on Power Systems*.
 * Oct. 2023, Acceptance: my new review manuscript (first-author) was accepted by *Journal of Modern Power Systems and Clean Energy*.
 * Jul. 2023, Acceptance: my new research manuscript (co-author) was accepted by *IEEE Transactions on Power Systems*.
