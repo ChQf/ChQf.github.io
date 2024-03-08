@@ -31,6 +31,7 @@ redirect_from:
 <br>*IEEE Transactions on Power Systems*
 <br>*IEEE Transactions on Smart Grid*
 <br>*IEEE Power Engineering Letters*
+<br>*Journal of Energy Engineering*
 <br>*IEEE ISGT-Asia 2022*
 <br>*China International Youth Conference on Electrical Engineering 2023*
 {: .text-justify}
