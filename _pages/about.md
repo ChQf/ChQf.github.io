@@ -1,5 +1,7 @@
 ---
-permalink: /
+
+[//]: # (permalink: /)
+layout: archive
 title: "ABOUT ME - Hi! I am Qifan Chen"
 excerpt: "About me"
 author_profile: true
