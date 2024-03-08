@@ -31,17 +31,36 @@ redirect_from:
 <br>*IEEE Transactions on Power Systems*
 <br>*IEEE Transactions on Smart Grid*
 <br>*IEEE Power Engineering Letters*
+<br>*IEEE ISGT-Asia 2022*
+<br>*China International Youth Conference on Electrical Engineering 2023*
 {: .text-justify}
 
 ---
 
-## Selected Competitions, Honors & Awards
+## Teaching Service
 
-### Competitions
+* Teaching Assistant -
+<br>1. *Electrical Energy Systems Fundamentals*, Undergraduate Course, EEE PolyU, 2024
+<br>2. *Energy Policy and Management*, Undergraduate Course, EEE PolyU, 2024
+<br>3. *Energy Policy and Management*, Undergraduate Course, EE PolyU, 2023
+<br>4. *Systems and Control*, Undergraduate Course, EE PolyU, 2023
+{: .text-justify}
+
+---
+
+## Selected Academic Awards & Competition Awards
+
+### Academic Awards
+
+1. Outstanding Master's Thesis of Fujian Province, Nov. 2022
+1. High impact paper of Proceedings of The CSEE in 2021 (1 paper), Dec. 2021
+1. Excellent paper award at the 19th Annual Conference of Fujian Society for Electrical Engineering (1 paper), Jul. 2020
+{: .text-justify}
+
+### Competition Awards
 
 1. China Robot Competition, 1st Prize (top 5.3%), Aug. 2017
 1. BRICS Skills Development & Technology Innovation Competition, 1st Prize, Aug. 2017
-1. Fujian HOLTEK MCU Application Design Competition, 3rd Prize, Jul. 2017
 1. China RoboWork Competition, 2nd Prize, May 2017
 1. China Robot Competition, 2nd Prize, Oct. 2016
 1. China RoboWork Competition, 1st Prize (top 3.4%), May 2016
@@ -49,27 +68,11 @@ redirect_from:
 1. China RoboWork Competition, 2nd Prize, Jul. 2015
 {: .text-justify}
 
-### Honors & Awards
-
-1. Outstanding Master's Thesis of Fujian Province, Nov. 2022
-1. High impact paper of Proceedings of The CSEE in 2021 (1 paper), Dec. 2021
-1. Fuzhou University Outstanding Academic Scholarships for Postgraduate, Jul. 2021
-1. Outstanding Graduate (M.Eng.) of Fuzhou University, Mar. 2021
-1. Fuzhou University Lifud Scholarship for Postgraduate, Dec. 2020
-1. Fuzhou University Outstanding Academic Scholarships for Postgraduate, Oct. 2020
-1. Award winning papers from the 19th Annual Conference of Fujian Society for Electrical Engineering (1 paper), Jul. 2020
-1. Fuzhou University Outstanding Postgraduate Freshmen Special Scholarship, Nov. 2018
-1. Overseas Visiting Fund for Outstanding Students of Fuzhou University, Jun. 2018
-1. Outstanding Graduate (B.Eng.) of College of Electrical Engineering and Automation, Fuzhou University, Jun. 2018
-1. Fuzhou University Comprehensive Scholarship (4 times), Apr., Oct. 2016 & Apr., Oct. 2017
-1. Star of Innovation and Entrepreneurship of Fuzhou University (2 times), May 2016 & May 2017
-{: .text-justify}
-
 ---
 
 ## Professional Skills
 
 * Machine learning: Pytorch, Keras, Tensorflow
-* Programming: Python, C, MATLAB, STM32(mainly based on C)
+* Programming: Python, C, MATLAB, MCU(STM32)
 * Power System-related: PSD-BPA, PSASP, Andes
 {: .text-justify}

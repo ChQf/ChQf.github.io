@@ -35,11 +35,11 @@ author_profile: true
 {: .text-justify}
 
 ### 2019
-1. Huaiyuan Wang, and **Qifan Chen**, "Transient Stability Assessment Method of Electric Power Systems Based on Stacked Variational Auto-encoder," ***Electric Power Automation Equipment***, vol.39, no.12, pp. 134-139, Dec. 2019. (**EI**) (in Chinese) (Award winning papers from the 19th Annual Conference of Fujian Society for Electrical Engineering)
+1. Huaiyuan Wang, and **Qifan Chen**, "Transient Stability Assessment Method of Electric Power Systems Based on Stacked Variational Auto-encoder," ***Electric Power Automation Equipment***, vol.39, no.12, pp. 134-139, Dec. 2019. (**EI**) (in Chinese) (Excellent paper award at the 19th Annual Conference of Fujian Society for Electrical Engineering)
 {: .text-justify}
 
 ## Peer-reviewed Conference Papers
 ### 2023
-1. **Qifan Chen**, Siqi Bu, and Jiaxin Wen, “Clustering-based Two-stage Small-signal Stability Probabilistic Analysis of Power Systems with Uncertainties”. ***IEEE Power & Energy Society General Meeting (PESGM)***, Orlando, Florida, USA, 2023.<br>
-2. Chao Lei, Siqi Bu, Qianggang Wang, and **Qifan Chen**, “Dynamic Ramping of Retrofitted Coal-Fired Power Plants: Basic Formulation and Tightened Approximation,” ***IEEE Power & Energy Society General Meeting (PESGM)***, Orlando, Florida, USA, 2023.<br>
+1. **Qifan Chen**, Siqi Bu, and Jiaxin Wen, “Clustering-based Two-stage Small-signal Stability Probabilistic Analysis of Power Systems with Uncertainties”. ***IEEE Power & Energy Society General Meeting (PESGM)***, Orlando, Florida, USA, 2023. (**SCI, EI**)<br>
+2. Chao Lei, Siqi Bu, Qianggang Wang, and **Qifan Chen**, “Dynamic Ramping of Retrofitted Coal-Fired Power Plants: Basic Formulation and Tightened Approximation,” ***IEEE Power & Energy Society General Meeting (PESGM)***, Orlando, Florida, USA, 2023. (**SCI, EI**)<br>
 {: .text-justify}
