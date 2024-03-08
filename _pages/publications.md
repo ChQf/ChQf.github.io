@@ -8,14 +8,14 @@ author_profile: true
 ## Peer-reviewed Journal Papers
 
 ### 2024
-1. Chao Lei, Siqi Bu, Qianggang Wang, **Qifan Chen**, Longjie Yang, and Yuan Chi, “Look-Ahead Rolling Economic Dispatch Approach for Wind-Thermal-Bundled Power System Considering Dynamic Ramping and Flexible Load Transfer Strategy,” ***IEEE Transactions on Power Systems***, vol. 39, no. 1, pp. 186-202, 2024. (**SCI JCR Q1, EI**) [[Link]](https://ieeexplore.ieee.org/document/10026349){:target="_blank"}<br>
+1. Chao Lei, Siqi Bu, Qianggang Wang, **Qifan Chen**, Longjie Yang, and Yuan Chi, “Look-Ahead Rolling Economic Dispatch Approach for Wind-Thermal-Bundled Power System Considering Dynamic Ramping and Flexible Load Transfer Strategy,” ***IEEE Transactions on Power Systems***, vol. 39, no. 1, pp. 186-202, 2024. (**SCI JCR Q1**) [[Link]](https://ieeexplore.ieee.org/document/10026349){:target="_blank"}<br>
 {: .text-justify}
 
 ### 2023
-1. **Qifan Chen**, and Siqi Bu, "Impedance-based Stability Analysis of Power System Wideband Oscillations: A Bridge between s Domain and Frequency Domain," ***IEEE Transactions on Power Systems***, 2023. (**SCI JCR Q1, EI**) (Early Access) [[Link]](https://ieeexplore.ieee.org/document/10360322){:target="_blank"}<br>
-1. **Qifan Chen**, Siqi Bu, and Chi-Yung Chung, "Small-Signal Stability Criteria in Power Electronics-dominated Power Systems: A Comparative Review," ***Journal of Modern Power System and Clean Energy***, 2023. (**SCI JCR Q1, EI**) (Early Access) [[Link]](https://ieeexplore.ieee.org/document/10355078){:target="_blank"}<br>
-1. **Qifan Chen**, Nan Lin, Siqi Bu, Huaiyuan Wang, and Baohui Zhang, "Interpretable Time-adaptive Transient Stability Assessment Based on Dual-stage Attention Mechanism," ***IEEE Transactions on Power Systems***, vol.38, no.3, pp. 2776-2790, 2023. (**SCI JCR Q1, EI**) [[Link]](https://ieeexplore.ieee.org/document/9802730){:target="_blank"}<br>
-1. Chao Lei, Siqi Bu, Jun Zhong, **Qifan Chen**, and Qianggang Wang, “Distribution Network Reconfiguration: A Disjunctive Convex Hull Approach,” ***IEEE Transactions on Power Systems***, vol. 38, no. 6, pp. 5926-5929, 2023. (**SCI JCR Q1, EI**) [[Link]](https://ieeexplore.ieee.org/document/10214389){:target="_blank"}<br>
+1. **Qifan Chen**, and Siqi Bu, "Impedance-based Stability Analysis of Power System Wideband Oscillations: A Bridge between s Domain and Frequency Domain," ***IEEE Transactions on Power Systems***, 2023. (**SCI JCR Q1**) (Early Access) [[Link]](https://ieeexplore.ieee.org/document/10360322){:target="_blank"}<br>
+1. **Qifan Chen**, Siqi Bu, and Chi-Yung Chung, "Small-Signal Stability Criteria in Power Electronics-dominated Power Systems: A Comparative Review," ***Journal of Modern Power System and Clean Energy***, 2023. (**SCI JCR Q1**) (Early Access) [[Link]](https://ieeexplore.ieee.org/document/10355078){:target="_blank"}<br>
+1. **Qifan Chen**, Nan Lin, Siqi Bu, Huaiyuan Wang, and Baohui Zhang, "Interpretable Time-adaptive Transient Stability Assessment Based on Dual-stage Attention Mechanism," ***IEEE Transactions on Power Systems***, vol.38, no.3, pp. 2776-2790, 2023. (**SCI JCR Q1**) [[Link]](https://ieeexplore.ieee.org/document/9802730){:target="_blank"}<br>
+1. Chao Lei, Siqi Bu, Jun Zhong, **Qifan Chen**, and Qianggang Wang, “Distribution Network Reconfiguration: A Disjunctive Convex Hull Approach,” ***IEEE Transactions on Power Systems***, vol. 38, no. 6, pp. 5926-5929, 2023. (**SCI JCR Q1**) [[Link]](https://ieeexplore.ieee.org/document/10214389){:target="_blank"}<br>
 {: .text-justify}
 
 ### 2022
@@ -23,14 +23,14 @@ author_profile: true
 {: .text-justify}
 
 ### 2021
-1. **Qifan Chen**, Huaiyuan Wang, and Nan Lin, "Imbalance Correction Method Based on Ratio of Loss Function Values for Transient Stability Assessment," ***CSEE Journal of Power and Energy Systems***, 2021. (**SCI JCR Q1, EI**) (Early Access) [[Link]](https://ieeexplore.ieee.org/document/9770511){:target="_blank"}<br>
-1. **Qifan Chen**, and Huaiyuan Wang, "Time-adaptive Transient Stability Assessment Based on Gated Recurrent Unit," ***International Journal of Electrical Power & Energy Systems***, vol.133, 2021. (**SCI JCR Q1, EI**) [[Link]](https://doi.org/10.1016/j.ijepes.2021.107156){:target="_blank"}<br>
-1. **Qifan Chen**, Nan Lin, and Huaiyuan Wang, "Transient Stability Assessment Model with Parallel Structure and Data Augmentation," ***International Transactions on Electrical Energy Systems***, vol.31, no.5, 2021. (**SCI JCR Q2, EI**) [[Link]](https://doi.org/10.1002/2050-7038.12872){:target="_blank"}<br>
+1. **Qifan Chen**, Huaiyuan Wang, and Nan Lin, "Imbalance Correction Method Based on Ratio of Loss Function Values for Transient Stability Assessment," ***CSEE Journal of Power and Energy Systems***, 2021. (**SCI JCR Q1**) (Early Access) [[Link]](https://ieeexplore.ieee.org/document/9770511){:target="_blank"}<br>
+1. **Qifan Chen**, and Huaiyuan Wang, "Time-adaptive Transient Stability Assessment Based on Gated Recurrent Unit," ***International Journal of Electrical Power & Energy Systems***, vol.133, 2021. (**SCI JCR Q1**) [[Link]](https://doi.org/10.1016/j.ijepes.2021.107156){:target="_blank"}<br>
+1. **Qifan Chen**, Nan Lin, and Huaiyuan Wang, "Transient Stability Assessment Model with Parallel Structure and Data Augmentation," ***International Transactions on Electrical Energy Systems***, vol.31, no.5, 2021. (**SCI JCR Q2**) [[Link]](https://doi.org/10.1002/2050-7038.12872){:target="_blank"}<br>
 {: .text-justify}
 
 ### 2020
-1. Huaiyuan Wang, **Qifan Chen**, and Baohui Zhang, "Transient Stability Assessment Combined Model Framework Based on Cost-Sensitive Method," ***IET Generation, Transmission & Distribution***, vol.14, no.12, pp. 2256-2262, 2020. (**SCI JCR Q2, EI**) [[Link]](https://doi.org/10.1049/iet-gtd.2019.1562){:target="_blank"}<br>
-1. Huaiyuan Wang, Qingyin Wang, and **Qifan Chen**, "Transient Stability Assessment Model with Improved Cost Sensitive Method Based on the Fault Severity," ***IET Generation, Transmission & Distribution***, vol.14, no.20, pp. 4605-4611, 2020. (**SCI JCR Q2, EI**) [[Link]](https://doi.org/10.1049/iet-gtd.2020.0967){:target="_blank"}<br>
+1. Huaiyuan Wang, **Qifan Chen**, and Baohui Zhang, "Transient Stability Assessment Combined Model Framework Based on Cost-Sensitive Method," ***IET Generation, Transmission & Distribution***, vol.14, no.12, pp. 2256-2262, 2020. (**SCI JCR Q2**) [[Link]](https://doi.org/10.1049/iet-gtd.2019.1562){:target="_blank"}<br>
+1. Huaiyuan Wang, Qingyin Wang, and **Qifan Chen**, "Transient Stability Assessment Model with Improved Cost Sensitive Method Based on the Fault Severity," ***IET Generation, Transmission & Distribution***, vol.14, no.20, pp. 4605-4611, 2020. (**SCI JCR Q2**) [[Link]](https://doi.org/10.1049/iet-gtd.2020.0967){:target="_blank"}<br>
 1. Huaiyuan Wang, and **Qifan Chen**, "A Transient Stability Assessment Method Based on Cost-Sensitive Stacked Variational Auto-Encoder," ***Proceedings of The CSEE***, vol.40, no.7, pp. 2213-2220+2400, Apr. 2020. (**EI**) (in Chinese) (High impact paper of Proceedings of The CSEE in 2021)<br>
 {: .text-justify}
 
@@ -40,6 +40,6 @@ author_profile: true
 
 ## Peer-reviewed Conference Papers
 ### 2023
-1. **Qifan Chen**, Siqi Bu, and Jiaxin Wen, “Clustering-based Two-stage Small-signal Stability Probabilistic Analysis of Power Systems with Uncertainties”. ***IEEE Power & Energy Society General Meeting (PESGM)***, Orlando, Florida, USA, 2023. (**SCI, EI**) [[Link]](https://ieeexplore.ieee.org/document/10252926){:target="_blank"}<br>
-2. Chao Lei, Siqi Bu, Qianggang Wang, and **Qifan Chen**, “Dynamic Ramping of Retrofitted Coal-Fired Power Plants: Basic Formulation and Tightened Approximation,” ***IEEE Power & Energy Society General Meeting (PESGM)***, Orlando, Florida, USA, 2023. (**SCI, EI**) [[Link]](https://ieeexplore.ieee.org/document/10253043){:target="_blank"}<br>
+1. **Qifan Chen**, Siqi Bu, and Jiaxin Wen, “Clustering-based Two-stage Small-signal Stability Probabilistic Analysis of Power Systems with Uncertainties”. ***IEEE Power & Energy Society General Meeting (PESGM)***, Orlando, Florida, USA, 2023. (**SCI**) [[Link]](https://ieeexplore.ieee.org/document/10252926){:target="_blank"}<br>
+2. Chao Lei, Siqi Bu, Qianggang Wang, and **Qifan Chen**, “Dynamic Ramping of Retrofitted Coal-Fired Power Plants: Basic Formulation and Tightened Approximation,” ***IEEE Power & Energy Society General Meeting (PESGM)***, Orlando, Florida, USA, 2023. (**SCI**) [[Link]](https://ieeexplore.ieee.org/document/10253043){:target="_blank"}<br>
 {: .text-justify}
