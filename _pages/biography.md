@@ -20,7 +20,7 @@ redirect_from:
 
 * Junior Engineer, Maintenance Branch Company of State Grid Fujian Electric Power CO., LTD., Aug. 2021 - Nov. 2021
 * University of California, Berkeley, Jul. 2018 - Aug. 2018
-<br>Full funded by Fuzhou University
+<br>Fully funded by Fuzhou University
 {: .text-justify}
 
 ---
@@ -52,13 +52,15 @@ redirect_from:
 ### Honors & Awards
 
 1. Outstanding Master's Thesis of Fujian Province, Nov. 2022
+1. High impact paper of Proceedings of The CSEE in 2021 (1 paper), Dec. 2021
 1. Fuzhou University Outstanding Academic Scholarships for Postgraduate, Jul. 2021
-1. Outstanding Graduate of Fuzhou University, Mar. 2021
+1. Outstanding Graduate (M.Eng.) of Fuzhou University, Mar. 2021
 1. Fuzhou University Lifud Scholarship for Postgraduate, Dec. 2020
 1. Fuzhou University Outstanding Academic Scholarships for Postgraduate, Oct. 2020
+1. Award winning papers from the 19th Annual Conference of Fujian Society for Electrical Engineering (1 paper), Jul. 2020
 1. Fuzhou University Outstanding Postgraduate Freshmen Special Scholarship, Nov. 2018
 1. Overseas Visiting Fund for Outstanding Students of Fuzhou University, Jun. 2018
-1. Outstanding Graduate of College of Electrical Engineering and Automation, Fuzhou University, Jun. 2018
+1. Outstanding Graduate (B.Eng.) of College of Electrical Engineering and Automation, Fuzhou University, Jun. 2018
 1. Fuzhou University Comprehensive Scholarship (4 times), Apr., Oct. 2016 & Apr., Oct. 2017
 1. Star of Innovation and Entrepreneurship of Fuzhou University (2 times), May 2016 & May 2017
 {: .text-justify}
@@ -67,7 +69,7 @@ redirect_from:
 
 ## Professional Skills
 
-* Machine learning: Keras, Tensorflow, scikit-learn, pandas
+* Machine learning: Pytorch, Keras, Tensorflow
 * Programming: Python, C, MATLAB, STM32(mainly based on C)
 * Power System-related: PSD-BPA, PSASP, Andes
 {: .text-justify}
