@@ -9,8 +9,8 @@ redirect_from:
   - /about.html
 ---
 I am currently pursuing my Ph.D. degree in Electrical Engineering at the Department of Electrical and Electronic Engineering, [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/){:target="_blank"} ([RISA research lab](https://www.polyu.edu.hk/ee/siqibu/index.html){:target="_blank"}).
-I received my M.Eng. degree in Power System & Automation and B.Eng. degree in Electrical Engineering & Automation both from [Fuzhou University](https://dqxy.fzu.edu.cn/){:target="_blank"}, China, in 2021 and 2018, respectively.
-{: .text-justify}My current research interests include:
+I received my M.Eng. degree in Power System & Automation and B.Eng. degree in Electrical Engineering & Automation both from [Fuzhou University](https://dqxy.fzu.edu.cn/){:target="_blank"}, China, in 2021 and 2018, respectively.{: .text-justify}
+My current research interests include:
 * **power system stability analysis and control**
 <br>1. stability risk analysis and control considering uncertainties;
 <br>2. power electronic-dominated power system stability based on impedance modeling and analysis;
