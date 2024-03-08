@@ -48,7 +48,7 @@ redirect_from:
 
 ---
 
-## Selected Academic Awards & Competition Awards
+## Selected Academic & Competition Awards
 
 ### Academic Awards
 
