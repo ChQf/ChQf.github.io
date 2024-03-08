@@ -23,27 +23,27 @@ I received my M.Eng. degree in Power System & Automation and B.Eng. degree in El
 ---
 
 ## News
-* Jan. 2024, Submission: my new research manuscript (co-author) was submitted to *IEEE Power Engineering Letters*.
-* Jan. 2024, Submission: my new research manuscript (first-author) was submitted to *IEEE Transactions on Power Systems*.
-* Dec. 2023, Submission: my new research manuscript (co-author) was submitted to *IEEE Power Engineering Letters*.
-* Dec. 2023, Submission: my new research manuscript (first-author) was submitted to *IEEE Transactions on Power Systems*.
-* Dec. 2023, Acceptance: my new research manuscript (first-author) was accepted by *IEEE Transactions on Power Systems*.
-* Oct. 2023, Acceptance: my new review manuscript (first-author) was accepted by *Journal of Modern Power Systems and Clean Energy*.
-* Jul. 2023, Acceptance: my new research manuscript (co-author) was accepted by *IEEE Transactions on Power Systems*.
-* Jun. 2023, Submission: my new research manuscript (corresponding author) was submitted to *IEEE Transactions on Power Systems*.
-* Feb. 2023, Acceptance: my new research manuscript (first-author) was accepted by *2023 IEEE PESGM*.
-* Feb. 2023, Acceptance: my new research manuscript (co-author) was accepted by *2023 IEEE PESGM*.
-* Jan. 2023, Acceptance: my new research manuscript (co-author) was accepted by *IEEE Transactions on Power Systems*.
+* Jan. 2024, Submission: a paper (co-author) was submitted to *IEEE Power Engineering Letters*.
+* Jan. 2024, Submission: a paper (first-author) was submitted to *IEEE Transactions on Power Systems*.
+* Dec. 2023, Submission: a paper (co-author) was submitted to *IEEE Power Engineering Letters*.
+* Dec. 2023, Submission: a paper (first-author) was submitted to *IEEE Transactions on Power Systems*.
+* Dec. 2023, Acceptance: a paper (first-author) was accepted by *IEEE Transactions on Power Systems*.
+* Oct. 2023, Acceptance: a review paper (first-author) was accepted by *Journal of Modern Power Systems and Clean Energy*.
+* Jul. 2023, Acceptance: a paper (co-author) was accepted by *IEEE Transactions on Power Systems*.
+* Jun. 2023, Submission: a paper (corresponding author) was submitted to *IEEE Transactions on Power Systems*.
+* Feb. 2023, Acceptance: a paper (first-author) was accepted by *2023 IEEE PES General Meeting*.
+* Feb. 2023, Acceptance: a paper (co-author) was accepted by *2023 IEEE PES General Meeting*.
+* Jan. 2023, Acceptance: a paper (co-author) was accepted by *IEEE Transactions on Power Systems*.
 * Nov. 2022, Award: I was awarded the Outstanding Master's Thesis of Fujian Province, China.
-* Jun. 2022, Acceptance: my new research manuscript (first author) was accepted by *IEEE Transactions on Power Systems*.
+* Jun. 2022, Acceptance: a paper (first author) was accepted by *IEEE Transactions on Power Systems*.
 * Dec. 2021, Award: my research paper (co-author) was awarded as the *High Impact Paper of Proceedings of The CSEE in 2021*.
 * Jul. 2021, Award: I was awarded the Outstanding Academic Scholarship for Postgraduate, Fuzhou University.
-* Jul. 2021, Acceptance: my new research manuscript (first author) was accepted by *CSEE Journal of Power & Energy Systems*.
-* Apr. 2021, Acceptance: my new research manuscript (first author) was accepted by *International Journal of Electrical Power & Energy Systems*.
+* Jul. 2021, Acceptance: a paper (first author) was accepted by *CSEE Journal of Power & Energy Systems*.
+* Apr. 2021, Acceptance: a paper (first author) was accepted by *International Journal of Electrical Power & Energy Systems*.
 * Mar. 2021, **I received my M.Eng. degree in Power System & Automation from Fuzhou University, China.**
 * Mar. 2021, Award: I was awarded the Outstanding Graduate of Fuzhou University.
-* Mar. 2021, Acceptance: my new research manuscript (co-author) was accepted by *Electric Power Automation Equipment*.
-* Mar. 2021, Acceptance: my new research manuscript (first author) was accepted by *International Transactions on Electrical Energy Systems*.
+* Mar. 2021, Acceptance: a paper (co-author) was accepted by *Electric Power Automation Equipment*.
+* Mar. 2021, Acceptance: a paper (first author) was accepted by *International Transactions on Electrical Energy Systems*.
 * Jan. 2021, I successfully defended my master thesis titled "An Adaptive Transient Stability Assessment Model Based on Deep Learning" (Grade: Excellent).
 * Dec. 2020, Scholarship: I was awarded the Lifud Scholarship for Postgraduate, Fuzhou University.
 * Oct. 2020, Scholarship: I was awarded the Outstanding Academic Scholarship for Postgraduate, Fuzhou University.
