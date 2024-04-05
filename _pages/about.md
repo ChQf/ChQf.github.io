@@ -20,7 +20,7 @@ I received my M.Eng. degree in Power System & Automation and B.Eng. degree in El
 <br>2. trustworthy artificial intelligence theory and methods for power systems;
 <br>3. data-driven uncertainty modeling and analysis.
 
-<br>Please feel free to contact me for further exchanges and cooperation (email is preferred).
+Please feel free to contact me for further exchanges and cooperation (email is preferred).
 {: .text-justify}
 ---
 
