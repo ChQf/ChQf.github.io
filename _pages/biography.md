@@ -44,7 +44,7 @@ redirect_from:
 <br>1. *Electrical Energy Systems Fundamentals*, Undergraduate Course, EEE PolyU, 2024
 <br>2. *Energy Policy and Management*, Undergraduate Course, EEE PolyU, 2024
 <br>3. *Energy Policy and Management*, Undergraduate Course, EE PolyU, 2023
-<br>4. *Systems and Control*, Undergraduate Course, EE PolyU, 2023
+<br>4. *Systems and Control*, Undergraduate Course, EE PolyU, 2022
 {: .text-justify}
 
 ---
