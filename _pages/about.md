@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /
-title: "ABOUT ME - Hi! I am Qifan Chen"
+title: "Qifan CHEN"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
