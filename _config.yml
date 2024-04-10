@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "zh-CN"
-title                    : "The Hong Kong Polytechnic University"
+title                    : "Qifan Chen"
 title_separator          : "-"
 name                     : &name "Qifan Chen"
 description              : &description "Qifan Chen, Electrical Engineering, The Hong Kong Polytechnic University"
