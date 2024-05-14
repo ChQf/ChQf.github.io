@@ -26,7 +26,7 @@ Please feel free to contact me for further exchanges and cooperation (email is p
 ---
 
 ## News
-* Jan. 2024, Submission: a paper (co-author) was submitted to *IEEE Power Engineering Letters*.
+* May 2024, Submission: a paper (co-author) was submitted to *IEEE Transactions on Power Systems*.
 * Jan. 2024, Submission: a paper (first-author) was submitted to *IEEE Transactions on Power Systems*.
 * Dec. 2023, Submission: a paper (co-author) was submitted to *IEEE Power Engineering Letters*.
 * Dec. 2023, Submission: a paper (first-author) was submitted to *IEEE Transactions on Power Systems*.
