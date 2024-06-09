@@ -8,7 +8,8 @@ author_profile: true
 ## Peer-reviewed Journal Papers
 
 ### 2024
-1. Chao Lei, Siqi Bu, Qianggang Wang, **Qifan Chen**, Longjie Yang, and Yuan Chi, “Look-Ahead Rolling Economic Dispatch Approach for Wind-Thermal-Bundled Power System Considering Dynamic Ramping and Flexible Load Transfer Strategy,” ***IEEE Transactions on Power Systems***, vol. 39, no. 1, pp. 186-202, 2024. (**SCI JCR Q1**) [[Link]](https://ieeexplore.ieee.org/document/10026349){:target="_blank"}<br>
+1. **Qifan Chen**, and Siqi Bu, "Spectral Impedance-based Probabilistic Wideband Oscillatory Stability Analysis and Visualization", ***IEEE Transactions on Power Systems***, 2024. (**SCI JCR Q1**) (Early Access) {:target="_blank"}<br>
+2. Chao Lei, Siqi Bu, Qianggang Wang, **Qifan Chen**, Longjie Yang, and Yuan Chi, “Look-Ahead Rolling Economic Dispatch Approach for Wind-Thermal-Bundled Power System Considering Dynamic Ramping and Flexible Load Transfer Strategy,” ***IEEE Transactions on Power Systems***, vol. 39, no. 1, pp. 186-202, 2024. (**SCI JCR Q1**) [[Link]](https://ieeexplore.ieee.org/document/10026349){:target="_blank"}<br>
 {: .text-justify}
 
 ### 2023
