@@ -8,12 +8,13 @@ author_profile: true
 ## Peer-reviewed Journal Papers
 
 ### 2024
-1. **Qifan Chen**, and Siqi Bu, "Spectral Impedance-based Probabilistic Wideband Oscillatory Stability Analysis and Visualization", ***IEEE Transactions on Power Systems***, 2024. (**SCI JCR Q1**) (Early Access)<br>
-2. Chao Lei, Siqi Bu, Qianggang Wang, **Qifan Chen**, Longjie Yang, and Yuan Chi, “Look-Ahead Rolling Economic Dispatch Approach for Wind-Thermal-Bundled Power System Considering Dynamic Ramping and Flexible Load Transfer Strategy,” ***IEEE Transactions on Power Systems***, vol. 39, no. 1, pp. 186-202, 2024. (**SCI JCR Q1**) [[Link]](https://ieeexplore.ieee.org/document/10026349){:target="_blank"}<br>
+1. Huaiyuan Wang, Fajun Gao, **Qifan Chen***, Siqi Bu, and Chao Lei, “Instability Pattern-guided Model Updating Method for Data-driven Transient Stability Assessment”, IEEE Transactions on Power Systems, 2024. (Early Access) (*Corresponding Author) <br>
+2. **Qifan Chen**, and Siqi Bu, "Spectral Impedance-based Probabilistic Wideband Oscillatory Stability Analysis and Visualization", ***IEEE Transactions on Power Systems***, 2024. (**SCI JCR Q1**) (Early Access)<br>
+2. **Qifan Chen**, and Siqi Bu, "Impedance-based Stability Analysis of Power System Wideband Oscillations: A Bridge between s Domain and Frequency Domain," ***IEEE Transactions on Power Systems***, vol.39, no.4, pp.5854-5868, 2024. (**SCI JCR Q1**) [[Link]](https://ieeexplore.ieee.org/document/10360322){:target="_blank"}<br>
+3. Chao Lei, Siqi Bu, Qianggang Wang, **Qifan Chen**, Longjie Yang, and Yuan Chi, “Look-Ahead Rolling Economic Dispatch Approach for Wind-Thermal-Bundled Power System Considering Dynamic Ramping and Flexible Load Transfer Strategy,” ***IEEE Transactions on Power Systems***, vol. 39, no. 1, pp. 186-202, 2024. (**SCI JCR Q1**) [[Link]](https://ieeexplore.ieee.org/document/10026349){:target="_blank"}<br>
 {: .text-justify}
 
 ### 2023
-1. **Qifan Chen**, and Siqi Bu, "Impedance-based Stability Analysis of Power System Wideband Oscillations: A Bridge between s Domain and Frequency Domain," ***IEEE Transactions on Power Systems***, 2023. (**SCI JCR Q1**) (Early Access) [[Link]](https://ieeexplore.ieee.org/document/10360322){:target="_blank"}<br>
 1. **Qifan Chen**, Siqi Bu, and Chi-Yung Chung, "Small-Signal Stability Criteria in Power Electronics-dominated Power Systems: A Comparative Review," ***Journal of Modern Power System and Clean Energy***, 2023. (**SCI JCR Q1**) (Early Access) [[Link]](https://ieeexplore.ieee.org/document/10355078){:target="_blank"}<br>
 1. **Qifan Chen**, Nan Lin, Siqi Bu, Huaiyuan Wang, and Baohui Zhang, "Interpretable Time-adaptive Transient Stability Assessment Based on Dual-stage Attention Mechanism," ***IEEE Transactions on Power Systems***, vol.38, no.3, pp. 2776-2790, 2023. (**SCI JCR Q1**) [[Link]](https://ieeexplore.ieee.org/document/9802730){:target="_blank"}<br>
 1. Chao Lei, Siqi Bu, Jun Zhong, **Qifan Chen**, and Qianggang Wang, “Distribution Network Reconfiguration: A Disjunctive Convex Hull Approach,” ***IEEE Transactions on Power Systems***, vol. 38, no. 6, pp. 5926-5929, 2023. (**SCI JCR Q1**) [[Link]](https://ieeexplore.ieee.org/document/10214389){:target="_blank"}<br>
