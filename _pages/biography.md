@@ -52,9 +52,9 @@ redirect_from:
 
 ## Academic Awards
 
-1. Outstanding Master's Thesis of Fujian Province, Nov. 2022
-1. High impact paper of Proceedings of The CSEE in 2021 (1 paper), Dec. 2021
-1. Excellent paper award at the 19th Annual Conference of Fujian Society for Electrical Engineering (1 paper), Jul. 2020
+* Outstanding Master's Thesis of Fujian Province, Nov. 2022
+* High impact paper of Proceedings of The CSEE in 2021 (1 paper), Dec. 2021
+* Excellent paper award at the 19th Annual Conference of Fujian Society for Electrical Engineering (1 paper), Jul. 2020
 {: .text-justify}
 
 
