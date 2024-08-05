@@ -18,6 +18,7 @@ redirect_from:
 
 ## Experience
 
+* Visiting Ph.D., National University of Singapore, Aug. 2024 - present
 * Junior Engineer, Maintenance Branch Company of State Grid Fujian Electric Power CO., LTD., Aug. 2021 - Nov. 2021
 * University of California, Berkeley, Jul. 2018 - Aug. 2018
 <br>Fully funded by Fuzhou University

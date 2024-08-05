@@ -26,6 +26,7 @@ Please feel free to contact me for further exchanges and cooperation (email is p
 ---
 
 ## News
+* Aug. 2024, I joined National University of Singapore as a visiting Ph.D. student, supervised by Prof. Dipti Srinivasan. 
 * Jun. 2024, Acceptance: a paper (corresponding author) was accepted by *IEEE Transactions on Power Systems*.
 * Jun. 2024, Acceptance: a paper (first-author) was accepted by *IEEE Transactions on Power Systems*.
 * May 2024, Submission: a paper (co-author) was submitted to *IEEE Transactions on Power Systems*.
