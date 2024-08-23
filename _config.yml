@@ -9,7 +9,7 @@
 locale                   : "zh-CN"
 title                    : "Qifan Chen"
 title_separator          : "-"
-name                     : &name "Qifan Chen"
+name                     : &name "Qifan Chen (陈启凡)"
 description              : &description "Qifan Chen, Electrical Engineering, The Hong Kong Polytechnic University"
 url                      : https://chqf.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
