@@ -33,6 +33,7 @@ redirect_from:
 <br>*IEEE Transactions on Smart Grid*
 <br>*IEEE Transactions on Consumer Electronics*
 <br>*IEEE Power Engineering Letters*
+<br>*Journal of Modern Power Systems and Clean Energy*
 <br>*Journal of Energy Engineering*
 <br>*Energy Conversion and Economics*
 <br>*IEEE ISGT-Asia 2022*
