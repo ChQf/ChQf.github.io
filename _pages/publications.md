@@ -7,7 +7,7 @@ author_profile: true
 
 ## Peer-reviewed Journal Papers
 ### First Author/Corresponding Author* Journal Papers
-1. **<u>Qifan Chen</u>**, Siqi Bu, Huaiyuan Wang, and Chao Lei, "Real-time Multi-stability Risk Assessment and Visualization of Power Systems: A Graph Neural Network-based Method", ***IEEE Transactions on Power Systems***, 2024. (**SCI JCR Q1**) (Accepted){:target="_blank"}<br>
+1. **<u>Qifan Chen</u>**, Siqi Bu, Huaiyuan Wang, and Chao Lei, "Real-time Multi-stability Risk Assessment and Visualization of Power Systems: A Graph Neural Network-based Method", ***IEEE Transactions on Power Systems***, 2024. (**SCI JCR Q1**) (Accepted)<br>
 2. Huaiyuan Wang, Fajun Gao, **<u>Qifan Chen*</u>**, Siqi Bu, and Chao Lei, “Instability Pattern-guided Model Updating Method for Data-driven Transient Stability Assessment”, ***IEEE Transactions on Power Systems***, 2024. (*Corresponding Author) (**SCI JCR Q1**) (Early Access) [[Link]](https://ieeexplore.ieee.org/document/10599816){:target="_blank"}<br>
 3. **<u>Qifan Chen</u>**, Siqi Bu, Xin Zhang, Shijun Yi, and Yanli Wei, "Spectral Impedance-based Probabilistic Wideband Oscillatory Stability Analysis and Visualization", ***IEEE Transactions on Power Systems***, 2024. (**SCI JCR Q1**) (Early Access) [[Link]](https://ieeexplore.ieee.org/document/10582543){:target="_blank"}<br>
 4. **<u>Qifan Chen</u>**, and Siqi Bu, "Impedance-based Stability Analysis of Power System Wideband Oscillations: A Bridge between s Domain and Frequency Domain," ***IEEE Transactions on Power Systems***, vol.39, no.4, pp.5854-5868, 2024. (**SCI JCR Q1**) [[Link]](https://ieeexplore.ieee.org/document/10360322){:target="_blank"}<br>
