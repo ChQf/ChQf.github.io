@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently pursuing my Ph.D. degree in Electrical Engineering at the Department of Electrical and Electronic Engineering, [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/){:target="_blank"} ([RISA research lab](https://www.polyu.edu.hk/ee/siqibu/index.html){:target="_blank"}).
+I am currently pursuing my Ph.D. degree in Electrical Engineering at the Department of Electrical and Electronic Engineering, [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/){:target="_blank"} ([Research Centre for Grid Modernisation](https://www.polyu.edu.hk/rcgm/?sc_lang=en){:target="_blank"} and [RISA research lab](https://www.polyu.edu.hk/ee/siqibu/index.html){:target="_blank"}).
 I received my M.Eng. degree in Power System & Automation and B.Eng. degree in Electrical Engineering & Automation both from [Fuzhou University](https://dqxy.fzu.edu.cn/){:target="_blank"}, China, in 2021 and 2018, respectively.
 <br>My current research interests include:
 {: .text-justify}
