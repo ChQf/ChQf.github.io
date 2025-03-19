@@ -26,13 +26,14 @@ Please feel free to contact me for further exchanges and cooperation (email is p
 ---
 
 ## News
-* Jan. 2025, Submission: a paper (corresponding author) was submitted to *IEEE Transactions on Industrial Informatics*.
+* Mar. 2025, Submission: a paper (first-author) was submitted to *IEEE Transactions on Smart Grid*.
+* Mar. 2025, Submission: a paper (corresponding author) was submitted to *IEEE Transactions on Industrial Informatics*.
+* Feb. 2025, Submission: a paper (corresponding author) was submitted to *Expert Systems with Applications*.
 * Nov. 2024, Acceptance: a paper (first-author) was accepted by *IEEE Transactions on Power Systems*.
 * Aug. 2024, Acceptance: a paper (co-author) was accepted by *IEEE Transactions on Smart Grid*.
 * Aug. 2024, I joined National University of Singapore as a visiting Ph.D. student, supervised by Prof. Dipti Srinivasan. 
 * Jun. 2024, Acceptance: a paper (corresponding author) was accepted by *IEEE Transactions on Power Systems*.
 * Jun. 2024, Acceptance: a paper (first-author) was accepted by *IEEE Transactions on Power Systems*.
-* May 2024, Submission: a paper (co-author) was submitted to *IEEE Transactions on Power Systems*.
 * Dec. 2023, Acceptance: a paper (first-author) was accepted by *IEEE Transactions on Power Systems*.
 * Oct. 2023, Acceptance: a review paper (first-author) was accepted by *Journal of Modern Power Systems and Clean Energy*.
 * Jul. 2023, Acceptance: a paper (co-author) was accepted by *IEEE Transactions on Power Systems*.
