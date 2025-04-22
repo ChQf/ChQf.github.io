@@ -30,6 +30,7 @@ redirect_from:
 * Reviewer -
 <br>*IEEE Transactions on Power Systems*
 <br>*IEEE Transactions on Smart Grid*
+<br>*IEEE Transactions on Power Delivery*
 <br>*IEEE Transactions on Consumer Electronics*
 <br>*IEEE Power Engineering Letters*
 <br>*Journal of Modern Power Systems and Clean Energy*
