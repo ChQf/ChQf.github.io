@@ -26,7 +26,6 @@ Please feel free to contact me for further exchanges and cooperation (email is p
 ---
 
 ## News
-* Mar. 2025, Submission: a paper (corresponding author) was submitted to *Expert Systems with Applications*.
 * Mar. 2025, Submission: a paper (first-author) was submitted to *IEEE Transactions on Smart Grid*.
 * Feb. 2025, Submission: a paper (corresponding author) was submitted to *Expert Systems with Applications*.
 * Nov. 2024, Acceptance: a paper (first-author) was accepted by *IEEE Transactions on Power Systems*.
