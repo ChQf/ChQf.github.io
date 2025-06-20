@@ -31,8 +31,8 @@ author_profile: true
 
 ## Peer-reviewed Conference Papers
 ### First Author/Corresponding Author Conference Papers
-1. **<u>Q. Chen</u>**, S. Bu, and J. Wen, “Clustering-based Two-stage Small-signal Stability Probabilistic Analysis of Power Systems with Uncertainties”. ***IEEE Power & Energy Society General Meeting (PESGM)***, Orlando, Florida, USA, 2023. (**SCI**) [[Link]](https://ieeexplore.ieee.org/document/10252926){:target="_blank"}<br>
+1. **<u>Q. Chen</u>**, S. Bu, and J. Wen, “Clustering-based Two-stage Small-signal Stability Probabilistic Analysis of Power Systems with Uncertainties”. ***IEEE Power & Energy Society General Meeting (PESGM)***, Orlando, Florida, USA, 2023. (**CPCI-S, EI**) [[Link]](https://ieeexplore.ieee.org/document/10252926){:target="_blank"}<br>
 
 ### Co-Author Conference Papers
-1. C. Lei, S. Bu, Q. Wang, and **<u>Q. Chen</u>**, “Dynamic Ramping of Retrofitted Coal-Fired Power Plants: Basic Formulation and Tightened Approximation,” ***IEEE Power & Energy Society General Meeting (PESGM)***, Orlando, Florida, USA, 2023. (**SCI**) [[Link]](https://ieeexplore.ieee.org/document/10253043){:target="_blank"}<br>
+1. C. Lei, S. Bu, Q. Wang, and **<u>Q. Chen</u>**, “Dynamic Ramping of Retrofitted Coal-Fired Power Plants: Basic Formulation and Tightened Approximation,” ***IEEE Power & Energy Society General Meeting (PESGM)***, Orlando, Florida, USA, 2023. (**CPCI-S, EI**) [[Link]](https://ieeexplore.ieee.org/document/10253043){:target="_blank"}<br>
 {: .text-justify}
