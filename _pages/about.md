@@ -27,7 +27,7 @@ Please feel free to contact me for further exchanges and cooperation (email is p
 
 ## News
 * Jul. 2025, Submission: a paper (corresponding author) was submitted to *Applied Energy*.
-* Jul. 2025, **Two ESI Highly cited papers** published in IEEE Transactions on Power Systems (corresponding author) and CSEE Journal of Power and Energy Systems (first-author).
+* Jul. 2025, **ESI Highly cited tags**: my two paper in IEEE Transactions on Power Systems (corresponding author) and CSEE Journal of Power and Energy Systems (first-author).
 * Jul. 2025, **I successfully defended my Ph.D. thesis titled "Stability Risk Analysis in Low-carbon Power Systems" (Grade: Excellent)**. Greatly thanks for my supervisor Prof. Siqi BU.
 * Mar. 2025, Submission: a paper (first-author) was submitted to *IEEE Transactions on Smart Grid*.
 * Feb. 2025, Submission: a paper (corresponding author) was submitted to *Expert Systems with Applications*.
