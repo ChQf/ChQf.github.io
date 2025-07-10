@@ -36,8 +36,8 @@ redirect_from:
 <br>*IEEE Transactions on Consumer Electronics*
 <br>*IEEE Power Engineering Letters*
 <br>*Journal of Modern Power Systems and Clean Energy*
-<br>*Protection and Control of Modern Power Systems;
-<br>*International Journal of Electrical Power and Energy Systems
+<br>*Protection and Control of Modern Power Systems*
+<br>*International Journal of Electrical Power and Energy Systems*
 <br>*Electric Power Systems Research*
 <br>*Journal of Energy Engineering*
 <br>*Energy Conversion and Economics*
