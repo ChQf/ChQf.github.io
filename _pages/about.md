@@ -22,7 +22,7 @@ I received my M.Eng. degree in Power System & Automation and B.Eng. degree in El
 <br>3. data-driven uncertainty modeling and analysis.
 
 Please feel free to contact me for further exchanges and cooperation (email is preferred).
-
+{: .text-justify}
 ___
 <br>**[The APSCOM 2025 Conference](https://www.apscom.org/){:target="_blank"} will be held in Hong Kong from 9 to 12 November 2025. 
 You are welcome to submit papers to [Special Session 2](https://www.apscom.org/call-for-papers/call-for-special-sessions/ss2/){:target="_blank"} 
