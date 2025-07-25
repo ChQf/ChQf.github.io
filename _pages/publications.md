@@ -16,7 +16,8 @@ author_profile: true
 7. **<u>Q. Chen</u>**, N. Lin, S. Bu, H. Wang, and B. Zhang, "Interpretable Time-adaptive Transient Stability Assessment Based on Dual-stage Attention Mechanism," ***IEEE Transactions on Power Systems***, vol. 38, no. 3, pp. 2776-2790, 2023. (**SCI JCR Q1**) [[Link]](https://ieeexplore.ieee.org/document/9802730){:target="_blank"}<br>
 8. **<u>Q. Chen</u>**, and H. Wang, "Time-adaptive Transient Stability Assessment Based on Gated Recurrent Unit," ***International Journal of Electrical Power & Energy Systems***, vol. 133, 2021. (**SCI JCR Q1**) [[Link]](https://doi.org/10.1016/j.ijepes.2021.107156){:target="_blank"}<br>
 9. **<u>Q. Chen</u>**, N. Lin, and H. Wang, "Transient Stability Assessment Model with Parallel Structure and Data Augmentation," ***International Transactions on Electrical Energy Systems***, vol. 31, no. 5, 2021. (**SCI JCR Q2**) [[Link]](https://doi.org/10.1002/2050-7038.12872){:target="_blank"}<br>
-
+{: .text-justify}
+10. 
 ### Co-Author Journal Papers
 1. C. Lei, S. Bu, **<u>Q. Chen</u>**, Q. Wang, Q. Wang, and D. Srinivasan, “Decentralized Optimal Power Flow for Multi-Agent Active Distribution Networks: A Differentially Private Consensus ADMM Algorithm”, ***IEEE Transactions on Smart Grid***, vol. 15, no. 6, pp. 6175-6178, 2024. (**SCI JCR Q1**) [[Link]](https://ieeexplore.ieee.org/document/10659236){:target="_blank"}<br>
 2. C. Lei, S. Bu, Q. Wang, **<u>Q. Chen</u>**, L. Yang, and Y. Chi, “Look-Ahead Rolling Economic Dispatch Approach for Wind-Thermal-Bundled Power System Considering Dynamic Ramping and Flexible Load Transfer Strategy,” ***IEEE Transactions on Power Systems***, vol. 39, no. 1, pp. 186-202, 2024. (**SCI JCR Q1**) [[Link]](https://ieeexplore.ieee.org/document/10026349){:target="_blank"}<br>
