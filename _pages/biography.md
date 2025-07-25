@@ -27,7 +27,7 @@ redirect_from:
 
 ## Academic Service
 * Organizer -
-<br>Session Chair, The APSCOM 2025 Conference, IET, Hong Kong, 2025.
+<br>Special Session Chair, The APSCOM 2025 Conference, IET, Hong Kong, 2025.
 
 * Reviewer -
 <br>*IEEE Transactions on Power Systems*
