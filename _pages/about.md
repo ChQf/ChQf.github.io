@@ -22,10 +22,14 @@ I received my M.Eng. degree in Power System & Automation and B.Eng. degree in El
 <br>3. data-driven uncertainty modeling and analysis.
 
 Please feel free to contact me for further exchanges and cooperation (email is preferred).
+
+___
+<br>**[The APSCOM 2025 Conference](https://www.apscom.org/){:target="_blank"} will be held in Hong Kong from 9 to 12 November 2025. You are welcome to submit papers to [Special Session 2](https://www.apscom.org/call-for-papers/call-for-special-sessions/ss2/){:target="_blank"} chaired by Dr. Fu and me.**
 {: .text-justify}
 ---
 
 ## News
+* Jul. 2025, Dr. Fu and I organized a special session for *the APSCOM 2025 Conference* ("Stability Analysis and Advanced Control for Diversified Converter-Dominated Power Systems"). Welcome submissions at [Link](https://www.apscom.org/call-for-papers/call-for-special-sessions/ss2/){:target="_blank"}
 * Jul. 2025, Submission: a paper (corresponding author) was submitted to *Applied Energy*.
 * Jul. 2025, **ESI Highly Cited Papers**: my two paper in *IEEE Transactions on Power Systems* (corresponding author) and *CSEE Journal of Power and Energy Systems* (first-author).
 * Jul. 2025, **I successfully defended my Ph.D. thesis titled "Stability Risk Analysis in Low-carbon Power Systems" (Grade: Excellent)**. Greatly thanks to my supervisor Prof. Siqi BU.
