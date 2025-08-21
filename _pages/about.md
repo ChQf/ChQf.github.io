@@ -9,8 +9,8 @@ redirect_from:
   - /about.html
 ---
 
-I received my Ph.D. degree in Electrical Engineering at the Department of Electrical and Electronic Engineering, [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/){:target="_blank"} ([Research Centre for Grid Modernisation](https://www.polyu.edu.hk/rcgm/?sc_lang=en){:target="_blank"} and [RISA research lab](https://www.polyu.edu.hk/ee/siqibu/index.html){:target="_blank"}) in 2025.
-I received my M.Eng. degree in Power System & Automation and B.Eng. degree in Electrical Engineering & Automation both from [Fuzhou University](https://dqxy.fzu.edu.cn/){:target="_blank"}, China, in 2021 and 2018, respectively. I used to be a visiting Ph.D. student at National University of Singapore in 2024.
+I received my Ph.D. degree in Electrical Engineering at the Department of Electrical and Electronic Engineering, [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/){:target="_blank"} ([Research Centre for Grid Modernisation](https://www.polyu.edu.hk/rcgm/?sc_lang=en){:target="_blank"} and [RISA research lab](https://www.polyu.edu.hk/ee/siqibu/index.html){:target="_blank"}) in 2025,
+and my M.Eng. degree in Power System & Automation and B.Eng. degree in Electrical Engineering both from [Fuzhou University](https://dqxy.fzu.edu.cn/){:target="_blank"}, China, in 2021 and 2018, respectively. I used to be a visiting Ph.D. student at National University of Singapore in 2024.
 <br>My current research interests include:
 {: .text-justify}
 * **power system stability analysis and control**
@@ -31,7 +31,7 @@ You are welcome to submit papers to [Special Session 2](https://www.apscom.org/c
 ---
 
 ## News
-* Jul. 2025, Dr. Fu and I chaired a special session for *the APSCOM 2025 Conference* ("Stability Analysis and Advanced Control for Diversified Converter-Dominated Power Systems"). Welcome submissions at [SS2](https://www.apscom.org/call-for-papers/call-for-special-sessions/ss2/){:target="_blank"}
+* Jul. 2025, Dr. Fu and I chaired a special session for *the APSCOM 2025 Conference* ("Stability Analysis and Advanced Control for Diversified Converter-Dominated Power Systems"). Welcome submissions at [SS2](https://www.apscom.org/call-for-papers/call-for-special-sessions/ss2/){:target="_blank"}.
 * Jul. 2025, Submission: a paper (corresponding author) was submitted to *Applied Energy*.
 * Jul. 2025, **ESI Highly Cited Papers**: my two paper in *IEEE Transactions on Power Systems* (corresponding author) and *CSEE Journal of Power and Energy Systems* (first-author).
 * Jul. 2025, **I successfully defended my Ph.D. thesis titled "Stability Risk Analysis in Low-carbon Power Systems" (Grade: Excellent)**. Greatly thanks to my supervisor Prof. Siqi BU.
