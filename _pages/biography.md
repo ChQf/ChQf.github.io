@@ -18,6 +18,7 @@ redirect_from:
 
 ## Experience
 
+* Postdoctoral Researcher, The Hong Kong Polytechnic University, Aug. 2025 - now
 * Visiting Ph.D., National University of Singapore, Aug. 2024 - Nov. 2024
 * Junior Engineer, Maintenance Branch Company of State Grid Fujian Electric Power CO., LTD., Aug. 2021 - Nov. 2021
 * University of California, Berkeley, Jul. 2018 - Aug. 2018
