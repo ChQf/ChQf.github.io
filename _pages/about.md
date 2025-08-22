@@ -9,9 +9,9 @@ redirect_from:
   - /about.html
 ---
 
-I am current the Postdoctoral Researcher cooperated in collaboration with [Prof. Siqi BU](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-bu-siqi/){:target="_blank"} at The Hong Kong Polytechnic University. 
-I received my Ph.D. degree in Electrical Engineering at the Department of Electrical and Electronic Engineering, [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/){:target="_blank"} ([Research Centre for Grid Modernisation](https://www.polyu.edu.hk/rcgm/?sc_lang=en){:target="_blank"} and [RISA research lab](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-bu-siqi/){:target="_blank"}) in 2025,
-and my M.Eng. degree in Power System & Automation and B.Eng. degree in Electrical Engineering & Automation both from [Fuzhou University](https://dqxy.fzu.edu.cn/){:target="_blank"}, China, in 2021 and 2018, respectively. I used to be a visiting Ph.D. student hosted by [Prof. Dipti Srinivasan](https://www.ece.nus.edu.sg/gems/profhome.html){:target="_blank"} at National University of Singapore in 2024.
+I am current the Postdoctoral Researcher in collaboration with [Prof. Siqi BU](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-bu-siqi/){:target="_blank"} at The Hong Kong Polytechnic University. 
+I received my Ph.D. degree in Electrical Engineering from [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/){:target="_blank"} (supervised by [Prof. Siqi BU](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-bu-siqi/){:target="_blank"} in [Research Centre for Grid Modernisation](https://www.polyu.edu.hk/rcgm/?sc_lang=en){:target="_blank"} and [RISA research lab](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-bu-siqi/){:target="_blank"}) in 2025,
+and my M.Eng. degree in Power System & Automation and B.Eng. degree in Electrical Engineering & Automation both from [Fuzhou University](https://dqxy.fzu.edu.cn/){:target="_blank"}, China, in 2021 and 2018, respectively. I used to be a visiting Ph.D. student at National University of Singapore in 2024 (hosted by [Prof. Dipti Srinivasan](https://www.ece.nus.edu.sg/gems/profhome.html){:target="_blank"}).
 <br>My current research interests include:
 {: .text-justify}
 * **power system stability analysis and control**
