@@ -9,7 +9,7 @@ redirect_from:
   - /about.html
 ---
 
-I am current the Postdoctoral Researcher at The Hong Kong Polytechnic University (in collaboration with [Prof. Siqi BU](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-bu-siqi/){:target="_blank"}). 
+I am current a Postdoctoral Fellow at The Hong Kong Polytechnic University (in collaboration with [Prof. Siqi BU](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-bu-siqi/){:target="_blank"}). 
 I received my Ph.D. degree in Electrical Engineering from [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/){:target="_blank"} (supervised by [Prof. Siqi BU](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-bu-siqi/){:target="_blank"} in [Research Centre for Grid Modernisation](https://www.polyu.edu.hk/rcgm/?sc_lang=en){:target="_blank"} and [RISA research lab](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-bu-siqi/){:target="_blank"}) in 2025,
 and my M.Eng. degree in Power System & Automation and B.Eng. degree in Electrical Engineering & Automation both from [Fuzhou University](https://dqxy.fzu.edu.cn/){:target="_blank"}, China, in 2021 and 2018, respectively. I used to be a visiting Ph.D. student at National University of Singapore in 2024 (supervised by [Prof. Dipti Srinivasan](https://www.ece.nus.edu.sg/gems/profhome.html){:target="_blank"}).
 <br>My current research interests include:
@@ -32,12 +32,13 @@ You are welcome to submit papers to [Special Session 2](https://www.apscom.org/c
 ---
 
 ## News
+* Sep. 2025, I became a Postdoctoral Fellow in collaboration with Prof. Siqi BU.
+* Aug. 2025, Submission: a paper (corresponding author) was submitted to *Engineering Applications of Artificial Intelligence*.
 * Jul. 2025, Dr. Fu and I chaired a special session for *the APSCOM 2025 Conference* ("Stability Analysis and Advanced Control for Diversified Converter-Dominated Power Systems"). Welcome submissions at [SS2](https://www.apscom.org/call-for-papers/call-for-special-sessions/ss2/){:target="_blank"}.
 * Jul. 2025, Submission: a paper (corresponding author) was submitted to *Applied Energy*.
 * Jul. 2025, **ESI Highly Cited Papers**: my two paper in *IEEE Transactions on Power Systems* (corresponding author) and *CSEE Journal of Power and Energy Systems* (first-author).
 * Jul. 2025, **I successfully defended my Ph.D. thesis titled "Stability Risk Analysis in Low-carbon Power Systems" (Grade: Excellent)**. Greatly thanks to my supervisor Prof. Siqi BU.
 * Mar. 2025, Submission: a paper (first-author) was submitted to *IEEE Transactions on Smart Grid*.
-* Feb. 2025, Submission: a paper (corresponding author) was submitted to *Expert Systems with Applications*.
 * Nov. 2024, Acceptance: a paper (first-author) was accepted by *IEEE Transactions on Power Systems*.
 * Aug. 2024, Acceptance: a paper (co-author) was accepted by *IEEE Transactions on Smart Grid*.
 * Aug. 2024, I joined National University of Singapore as a visiting Ph.D. student, supervised by Prof. Dipti Srinivasan. 
