@@ -25,13 +25,12 @@ and my M.Eng. degree in Power System & Automation and B.Eng. degree in Electrica
 Please feel free to contact me for further exchanges and cooperation (email is preferred).
 {: .text-justify}
 ___
-<br>**[The APSCOM 2025 Conference](https://www.apscom.org/){:target="_blank"} will be held in Hong Kong from 9 to 12 November 2025. 
-You are welcome to submit papers to [Special Session 2](https://www.apscom.org/call-for-papers/call-for-special-sessions/ss2/){:target="_blank"} 
-(Stability Analysis and Advanced Control for Diversified Converter-Dominated Power Systems) chaired by Dr. Fu and me.**
+<br>
 {: .text-justify}
 ---
 
 ## News
+* Jan. 2026, Award: my review paper (first author) was awarded as the [*2024 MPCE Best Paper*](https://www.mpce.info/mpce/news/view/20260116111930001){:target="_blank"}.
 * Sep. 2025, I became a Postdoctoral Fellow in collaboration with Prof. Siqi BU.
 * Aug. 2025, Submission: a paper (corresponding author) was submitted to *Engineering Applications of Artificial Intelligence*.
 * Jul. 2025, Dr. Fu and I chaired a special session for *the APSCOM 2025 Conference* ("Stability Analysis and Advanced Control for Diversified Converter-Dominated Power Systems"). Welcome submissions at [SS2](https://www.apscom.org/call-for-papers/call-for-special-sessions/ss2/){:target="_blank"}.

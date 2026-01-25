@@ -63,6 +63,7 @@ redirect_from:
 
 ## Academic Awards
 
+* 2024 MPCE Best Paper Award, Jan. 2026
 * Two ESI Highly Cited Papers, 2025
 * Outstanding Master's Thesis of Fujian Province, Nov. 2022
 * High impact paper of Proceedings of The CSEE in 2021 (1 paper), Dec. 2021
@@ -76,5 +77,5 @@ redirect_from:
 
 * Machine learning: Pytorch, Keras, Tensorflow
 * Programming: Python, C, MATLAB, MCU(STM32)
-* Power System-related: PSD-BPA, PSASP
+* Power System-related: PSD-BPA, PSASP, PSModel
 {: .text-justify}
