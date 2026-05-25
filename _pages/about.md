@@ -9,10 +9,10 @@ redirect_from:
   - /about.html
 ---
 
-I received my Ph.D. degree in Electrical Engineering from [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/){:target="_blank"} (supervised by [Prof. Siqi BU](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-bu-siqi/){:target="_blank"} in [Research Centre for Grid Modernisation](https://www.polyu.edu.hk/rcgm/?sc_lang=en){:target="_blank"} and [RISA research lab](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-bu-siqi/){:target="_blank"} (FIET)) in 2025,
-and my M.Eng. degree in Power System & Automation and B.Eng. degree in Electrical Engineering & Automation both from [Fuzhou University](https://dqxy.fzu.edu.cn/){:target="_blank"}, China, in 2021 and 2018, respectively. 
-I used to be a visiting Ph.D. student at National University of Singapore in 2024 (supervised by [Prof. Dipti Srinivasan](https://www.ece.nus.edu.sg/gems/profhome.html){:target="_blank"}(FIEEE)).
-I was a Postdoctoral Fellow at The Hong Kong Polytechnic University (in collaboration with [Prof. Siqi BU](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-bu-siqi/){:target="_blank"} (FIET)) from 2025 to 2026. 
+I received my Ph.D. degree in Electrical Engineering from [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/){:target="_blank"} in 2025, under the supervision of [Prof. Siqi BU](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-bu-siqi/){:target="_blank"} (FIET) at the [Research Centre for Grid Modernisation](https://www.polyu.edu.hk/rcgm/?sc_lang=en){:target="_blank"} and [RISA research lab](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-bu-siqi/){:target="_blank"}.
+I received my M.Eng. degree in Power System & Automation and B.Eng. degree in Electrical Engineering & Automation both from [Fuzhou University](https://dqxy.fzu.edu.cn/){:target="_blank"}, China, in 2021 and 2018, respectively. 
+I was a visiting Ph.D. student at National University of Singapore in 2024, under the supervision of [Prof. Dipti Srinivasan](https://www.ece.nus.edu.sg/gems/profhome.html){:target="_blank"}(FIEEE).
+I recently completed a Postdoctoral Fellow at The Hong Kong Polytechnic University, collaborating with [Prof. Siqi BU](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-bu-siqi/){:target="_blank"} (FIET) from 2025 to 2026. 
 <br>My current research interests include:
 {: .text-justify}
 * **power system stability analysis and control**
