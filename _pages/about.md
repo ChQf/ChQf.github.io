@@ -9,9 +9,9 @@ redirect_from:
   - /about.html
 ---
 
-I am current a Postdoctoral Fellow at The Hong Kong Polytechnic University (in collaboration with [Prof. Siqi BU](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-bu-siqi/){:target="_blank"}). 
-I received my Ph.D. degree in Electrical Engineering from [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/){:target="_blank"} (supervised by [Prof. Siqi BU](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-bu-siqi/){:target="_blank"} in [Research Centre for Grid Modernisation](https://www.polyu.edu.hk/rcgm/?sc_lang=en){:target="_blank"} and [RISA research lab](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-bu-siqi/){:target="_blank"}) in 2025,
+I received my Ph.D. degree in Electrical Engineering from [The Hong Kong Polytechnic University](https://www.polyu.edu.hk/){:target="_blank"} (supervised by [Prof. Siqi BU](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-bu-siqi/){:target="_blank"} in [Research Centre for Grid Modernisation](https://www.polyu.edu.hk/rcgm/?sc_lang=en){:target="_blank"} and [RISA research lab](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-bu-siqi/){:target="_blank"} (FIET)) in 2025,
 and my M.Eng. degree in Power System & Automation and B.Eng. degree in Electrical Engineering & Automation both from [Fuzhou University](https://dqxy.fzu.edu.cn/){:target="_blank"}, China, in 2021 and 2018, respectively. I used to be a visiting Ph.D. student at National University of Singapore in 2024 (supervised by [Prof. Dipti Srinivasan](https://www.ece.nus.edu.sg/gems/profhome.html){:target="_blank"}).
+I was a Postdoctoral Fellow at The Hong Kong Polytechnic University (in collaboration with [Prof. Siqi BU](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-bu-siqi/){:target="_blank"} (FIET)) from 2025 to 2026. 
 <br>My current research interests include:
 {: .text-justify}
 * **power system stability analysis and control**
@@ -30,6 +30,7 @@ ___
 ---
 
 ## News
+* May 2026, Talk: I made an oral presentation entitled "Time-adaptive Frequency Stability Assessment Based on Interval Prediction" at the Conference of IEEE EPSIC 2026 held in Tianjin, China.
 * Jan. 2026, Award: my review paper (first author) was awarded as the [**2024 MPCE Best Paper**](https://www.mpce.info/mpce/news/view/20260116111930001){:target="_blank"}.
 * Sep. 2025, I became a Postdoctoral Fellow in collaboration with Prof. Siqi BU.
 * Aug. 2025, Submission: a paper (corresponding author) was submitted to *Engineering Applications of Artificial Intelligence*.
