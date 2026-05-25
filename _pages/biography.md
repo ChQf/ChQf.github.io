@@ -38,12 +38,14 @@ redirect_from:
 <br>*IEEE Transactions on Industrial Electronics*
 <br>*IEEE Transactions on Consumer Electronics*
 <br>*IEEE Power Engineering Letters*
+<br>*IEEE Canadian Journal of Electrical and Computer Engineering*
 <br>*Journal of Modern Power Systems and Clean Energy*
 <br>*Protection and Control of Modern Power Systems*
 <br>*International Journal of Electrical Power and Energy Systems*
 <br>*Electric Power Systems Research*
 <br>*Journal of Energy Engineering*
 <br>*Energy Conversion and Economics*
+<br>*IET Smart Grid*
 <br>*IEEE ISGT-Asia 2022*
 <br>*China International Youth Conference on Electrical Engineering 2023*
 {: .text-justify}
