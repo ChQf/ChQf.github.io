@@ -33,7 +33,7 @@ author_profile: true
 ## Peer-reviewed Conference Papers
 ### First Author/Corresponding Author Conference Papers
 1. **<u>Q. Chen</u>**, S. Bu, and J. Wen, "Clustering-based Two-stage Small-signal Stability Probabilistic Analysis of Power Systems with Uncertainties," ***IEEE Power & Energy Society General Meeting (PESGM)***, Orlando, Florida, USA, 2023. (**CPCI-S, EI**) [[Link]](https://ieeexplore.ieee.org/document/10252926){:target="_blank"}<br>
-2. H. Wang, C. Lin, Z. Wu, Y. Lin, N. Lin, and **<u>Q. Chen*</u>**, “Time-adaptive Frequency Stability Assessment Based on Interval Prediction,” The 3rd International Conference on Electrical Power Systems and Intelligent Control (EPSIC), Tianjin, China, 2026. (*Corresponding Author) (**EI**)<br>
+2. H. Wang, C. Lin, Z. Wu, Y. Lin, N. Lin, and **<u>Q. Chen*</u>**, “Time-adaptive Frequency Stability Assessment Based on Interval Prediction,” ***The 3rd International Conference on Electrical Power Systems and Intelligent Control (EPSIC)***, Tianjin, China, 2026. (*Corresponding Author) (**EI**)<br>
 
 ### Co-Author Conference Papers
 1. C. Lei, S. Bu, Q. Wang, and **<u>Q. Chen</u>**, "Dynamic Ramping of Retrofitted Coal-Fired Power Plants: Basic Formulation and Tightened Approximation," ***IEEE Power & Energy Society General Meeting (PESGM)***, Orlando, Florida, USA, 2023. (**CPCI-S, EI**) [[Link]](https://ieeexplore.ieee.org/document/10253043){:target="_blank"}<br>
