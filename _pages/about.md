@@ -31,15 +31,14 @@ ___
 ---
 
 ## News
+* Jun. 2026, Acceptance: a paper (corresponding author) was accepted by *Applied Energy*.
 * May 2026, Talk: I made an oral presentation entitled "Time-adaptive Frequency Stability Assessment Based on Interval Prediction" at the Conference of IEEE EPSIC 2026 held in Tianjin, China.
+* Mar. 2026, Submission: a paper (first-author) was submitted to *IEEE Transactions on Sustainable Energy*.
 * Jan. 2026, Award: my review paper (first author) was awarded as the [**2024 MPCE Best Paper**](https://www.mpce.info/mpce/news/view/20260116111930001){:target="_blank"}.
 * Sep. 2025, I became a Postdoctoral Fellow in collaboration with Prof. Siqi BU.
-* Aug. 2025, Submission: a paper (corresponding author) was submitted to *Engineering Applications of Artificial Intelligence*.
 * Jul. 2025, Dr. Fu and I chaired a special session for *the APSCOM 2025 Conference* ("Stability Analysis and Advanced Control for Diversified Converter-Dominated Power Systems"). Welcome submissions at [SS2](https://www.apscom.org/call-for-papers/call-for-special-sessions/ss2/){:target="_blank"}.
-* Jul. 2025, Submission: a paper (corresponding author) was submitted to *Applied Energy*.
 * Jul. 2025, **ESI Highly Cited Papers**: my two paper in *IEEE Transactions on Power Systems* (corresponding author) and *CSEE Journal of Power and Energy Systems* (first-author).
 * Jul. 2025, **I successfully defended my Ph.D. thesis titled "Stability Risk Analysis in Low-carbon Power Systems" (Grade: Excellent)**. Greatly thanks to my supervisor Prof. Siqi BU.
-* Mar. 2025, Submission: a paper (first-author) was submitted to *IEEE Transactions on Smart Grid*.
 * Nov. 2024, Acceptance: a paper (first-author) was accepted by *IEEE Transactions on Power Systems*.
 * Aug. 2024, Acceptance: a paper (co-author) was accepted by *IEEE Transactions on Smart Grid*.
 * Aug. 2024, I joined National University of Singapore as a visiting Ph.D. student, supervised by Prof. Dipti Srinivasan. 
