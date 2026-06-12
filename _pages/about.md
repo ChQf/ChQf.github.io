@@ -13,6 +13,7 @@ I received my Ph.D. degree in Electrical Engineering from [The Hong Kong Polytec
 I received my M.Eng. degree in Power System & Automation and B.Eng. degree in Electrical Engineering & Automation both from [Fuzhou University](https://dqxy.fzu.edu.cn/){:target="_blank"}, China, in 2021 and 2018, respectively. 
 I was a visiting Ph.D. student at National University of Singapore in 2024, under the supervision of [Prof. Dipti Srinivasan](https://www.ece.nus.edu.sg/gems/profhome.html){:target="_blank"} (FIEEE).
 I recently completed a Postdoctoral Fellow at The Hong Kong Polytechnic University, collaborating with [Prof. Siqi BU](https://www.polyu.edu.hk/eee/people/academic-staff-and-teaching-staff/prof-bu-siqi/){:target="_blank"} (FIET) from 2025 to 2026. 
+I will soon be joining the College of Electrical Engineering and Automation at Fuzhou University.
 <br>My current research interests include:
 {: .text-justify}
 * **power system stability analysis and control**
@@ -31,6 +32,7 @@ ___
 ---
 
 ## News
+* Jun. 2026, Submission: a paper (corresponding author) was submitted to *IEEE Transactions on Instrumentation and Measurement*.
 * Jun. 2026, Acceptance: a paper (corresponding author) was accepted by *Applied Energy*.
 * May 2026, Talk: I made an oral presentation entitled "Time-adaptive Frequency Stability Assessment Based on Interval Prediction" at the Conference of IEEE EPSIC 2026 held in Tianjin, China.
 * Mar. 2026, Submission: a paper (first-author) was submitted to *IEEE Transactions on Sustainable Energy*.
