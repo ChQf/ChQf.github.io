@@ -7,7 +7,7 @@ author_profile: true
 
 ## Peer-reviewed Journal Papers
 ### First Author/Corresponding Author* Journal Papers
-1. H. Wang, Y. Miao, J. Wen, **<u>Q. Chen*</u>**, Nan Lin\*, and S. Bu, “Physical Information-Guided Training Method for Transient Voltage Stability Assessment”, ***Applied Energy***. (*Corresponding Author) (**SCI JCR Q1**) <br>
+1. H. Wang, Y. Miao, J. Wen, **<u>Q. Chen*</u>**, Nan Lin\*, and S. Bu, “Physical Information-Guided Training Method for Transient Voltage Stability Assessment”, ***Applied Energy***. (*Corresponding Author) (**SCI JCR Q1**) [[Link]](https://www.sciencedirect.com/science/article/pii/S0306261926008317){:target="_blank"}<br>
 2. **<u>Q. Chen</u>**, S. Bu, H. Wang, and C. Lei, "Real-time Multi-stability Risk Assessment and Visualization of Power Systems: A Graph Neural Network-based Method," ***IEEE Transactions on Power Systems***, vol. 40, no. 4, pp. 2955-2968, 2025. (**SCI JCR Q1**) [[Link]](https://ieeexplore.ieee.org/abstract/document/10819251){:target="_blank"}<br>
 2. H. Wang, F. Gao, **<u>Q. Chen*</u>**, S. Bu, and C. Lei, "Instability Pattern-guided Model Updating Method for Data-driven Transient Stability Assessment," ***IEEE Transactions on Power Systems***, vol. 40, no. 2, pp. 1214-1227, 2025. (*Corresponding Author) (**SCI JCR Q1**) (**ESI Highly Cited in 2025**) [[Link]](https://ieeexplore.ieee.org/document/10599816){:target="_blank"}<br>
 3. **<u>Q. Chen</u>**, S. Bu, X. Zhang, S. Yi, and Y. Wei, "Spectral Impedance-based Probabilistic Wideband Oscillatory Stability Analysis and Visualization," ***IEEE Transactions on Power Systems***, vol. 40, no. 2, pp. 1636-1648, 2025. (**SCI JCR Q1**) [[Link]](https://ieeexplore.ieee.org/document/10582543){:target="_blank"}<br>
@@ -34,7 +34,7 @@ author_profile: true
 ## Peer-reviewed Conference Papers
 ### First Author/Corresponding Author Conference Papers
 1. **<u>Q. Chen</u>**, S. Bu, and J. Wen, "Clustering-based Two-stage Small-signal Stability Probabilistic Analysis of Power Systems with Uncertainties," ***IEEE Power & Energy Society General Meeting (PESGM)***, Orlando, Florida, USA, 2023. (**CPCI-S, EI**) [[Link]](https://ieeexplore.ieee.org/document/10252926){:target="_blank"}<br>
-2. H. Wang, C. Lin, Z. Wu, Y. Lin, N. Lin, and **<u>Q. Chen*</u>**, “Time-adaptive Frequency Stability Assessment Based on Interval Prediction,” ***The 3rd International Conference on Electrical Power Systems and Intelligent Control (EPSIC)***, Tianjin, China, 2026. (*Corresponding Author) (**EI**)<br>
+2. H. Wang, C. Lin, Z. Wu, Y. Lin, N. Lin, and **<u>Q. Chen*</u>**, “Time-adaptive Power System Frequency Stability Assessment Based on Interval Prediction,” ***The 3rd International Conference on Electrical Power Systems and Intelligent Control (EPSIC)***, Tianjin, China, 2026. (*Corresponding Author) (**EI**)<br>
 
 ### Co-Author Conference Papers
 1. C. Lei, S. Bu, Q. Wang, and **<u>Q. Chen</u>**, "Dynamic Ramping of Retrofitted Coal-Fired Power Plants: Basic Formulation and Tightened Approximation," ***IEEE Power & Energy Society General Meeting (PESGM)***, Orlando, Florida, USA, 2023. (**CPCI-S, EI**) [[Link]](https://ieeexplore.ieee.org/document/10253043){:target="_blank"}<br>
