@@ -32,6 +32,7 @@ ___
 ---
 
 ## News
+* Jul. 2026, Submission: a paper (co-author) was submitted to *IEEE Internet of Things Journal*.
 * Jun. 2026, Submission: a paper (corresponding author) was submitted to *IEEE Transactions on Instrumentation and Measurement*.
 * Jun. 2026, Acceptance: a paper (corresponding author) was accepted by *Applied Energy*.
 * May 2026, Talk: I made an oral presentation entitled "Time-adaptive Frequency Stability Assessment Based on Interval Prediction" at the Conference of IEEE EPSIC 2026 held in Tianjin, China.
