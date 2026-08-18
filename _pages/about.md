@@ -32,6 +32,7 @@ ___
 ---
 
 ## News
+* Aug. 2026, Submission: a paper (co-author) was submitted to *IEEE Journal of Emerging and Selected Topics in Power Electronics*.
 * Jul. 2026, Submission: a paper (co-author) was submitted to *IEEE Internet of Things Journal*.
 * Jun. 2026, Submission: a paper (corresponding author) was submitted to *IEEE Transactions on Instrumentation and Measurement*.
 * Jun. 2026, Acceptance: a paper (corresponding author) was accepted by *Applied Energy*.
