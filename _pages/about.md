@@ -32,6 +32,7 @@ ___
 ---
 
 ## News
+* Jul. 2026, Award: a paper (co-author) received the *Best Student Paper Award* in IEEE I&CPS Asia 2026.
 * Jul. 2026, Submission: a paper (co-author) was submitted to *IEEE Internet of Things Journal*.
 * Jun. 2026, Submission: a paper (corresponding author) was submitted to *IEEE Transactions on Instrumentation and Measurement*.
 * Jun. 2026, Acceptance: a paper (corresponding author) was accepted by *Applied Energy*.

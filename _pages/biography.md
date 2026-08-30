@@ -34,6 +34,7 @@ redirect_from:
 * Reviewer -
 <br>*IEEE Transactions on Power Systems*
 <br>*IEEE Transactions on Smart Grid*
+<br>*IEEE Transactions on Sustainable Energy*
 <br>*IEEE Transactions on Power Delivery*
 <br>*IEEE Transactions on Industrial Electronics*
 <br>*IEEE Transactions on Consumer Electronics*
@@ -65,6 +66,7 @@ redirect_from:
 
 ## Academic Awards
 
+* Best Student Paper Award at the IEEE I&CPS Asia 2026, Jul. 2026
 * 2024 MPCE Best Paper Award, Jan. 2026
 * Two ESI Highly Cited Papers, 2025
 * Outstanding Master's Thesis of Fujian Province, Nov. 2022
@@ -79,5 +81,5 @@ redirect_from:
 
 * Machine learning: Pytorch, Keras, Tensorflow
 * Programming: Python, C, MATLAB, MCU(STM32)
-* Power System-related: PSD-BPA, PSASP, PSModel
+* Power System-related: PSD-BPA, PSASP, PSModel, ADPSS
 {: .text-justify}

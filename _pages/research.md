@@ -12,8 +12,8 @@ author_profile: true
 
 ## Projects
 
-1. "A Universal Probabilistic Analysis Methodology for Grid Oscillatory Risk Assessment and Visualization in Coexistent Transmission and Distribution System Operational Planning," General Research Fund from RGC, Hong Kong, 2022 - 2024. (Participate) 
-2. "Transient Stability Assessment Model Based on Big Data Analysis," the Education and Scientific Research Project for Young and Middle-aged Teachers of Fujian Province, China, 2018 - 2019. (Participate)
+1. "Trustworthy, Interpretable, and Controllable Transient Stability Risk Online Assessment Theory and Method", Young Scientists Fund (Calss C) of National Natural Science Foundation of China (NSFC), China, 2027 - 2029. (PI)
+2. "A Universal Probabilistic Analysis Methodology for Grid Oscillatory Risk Assessment and Visualization in Coexistent Transmission and Distribution System Operational Planning," General Research Fund from RGC, Hong Kong, 2022 - 2024. (Participate)
 {: .text-justify}
 
 <!--
