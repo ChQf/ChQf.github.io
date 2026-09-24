@@ -74,12 +74,5 @@ redirect_from:
 * Excellent paper award at the 19th Annual Conference of Fujian Society for Electrical Engineering (1 paper), Jul. 2020
 {: .text-justify}
 
-
----
-
-## Professional Skills
-
-* Machine learning: Pytorch, Keras, Tensorflow
-* Programming: Python, C, MATLAB, MCU(STM32)
-* Power System-related: PSD-BPA, PSASP, PSModel, ADPSS
+  
 {: .text-justify}
